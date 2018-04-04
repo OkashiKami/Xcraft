@@ -1,0 +1,10 @@
+{
+    "variants": 
+    {
+         "normal": { "model": "sxm:reactor_coolant" },
+        "facing=north": { "model": "sxm:reactor_coolant" },
+        "facing=east": { "model": "sxm:reactor_coolant", "y": 90 },
+        "facing=south": { "model": "sxm:reactor_coolant", "y": 180 },
+        "facing=west": { "model": "sxm:reactor_coolant", "y": 270 }
+    }
+}

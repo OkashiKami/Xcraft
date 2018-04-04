@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "axis=y,variant=copper": { "model": "sxm:log_copper" },
+        "axis=z,variant=copper": { "model": "sxm:log_copper", "x": 90 },
+        "axis=x,variant=copper": { "model": "sxm:log_copper", "x": 90, "y": 90 },
+        "axis=none,variant=copper": { "model": "sxm:log_copper" },
+        
+        "axis=y,variant=aluminium": { "model": "sxm:log_aluminium" },
+        "axis=z,variant=aluminium": { "model": "sxm:log_aluminium", "x": 90 },
+        "axis=x,variant=aluminium": { "model": "sxm:log_aluminium", "x": 90, "y": 90 },
+        "axis=none,variant=aluminium": { "model": "sxm:log_aluminium" },
+        
+         "axis=y,variant=tin": { "model": "sxm:log_tin" },
+        "axis=z,variant=tin": { "model": "sxm:log_tin", "x": 90 },
+        "axis=x,variant=tin": { "model": "sxm:log_tin", "x": 90, "y": 90 },
+        "axis=none,variant=tin": { "model": "sxm:log_tin" }
+    }
+}

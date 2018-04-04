@@ -1,0 +1,90 @@
+2018-04-04 01:34:43: Connected to S:\Documents\MinecraftModding\xcraftmod\src: S: NTFS: type=NTFS vol=Data Storage flags=3E706FF
+2018-04-04 01:34:44: Connected to gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application
+2018-04-04 01:34:44: Incremental Analyze for On File Change
+2018-04-04 01:34:44: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-04-04 01:34:44: Mod Sync: ANALYSIS started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP' (GoodSync 10.8.1.1)
+2018-04-04 01:34:44: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-04 01:34:44: Exclude Hidden, Exclude System, Exclude name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-04-04 01:34:44: Locking folder S:/Documents/MinecraftModding/xcraftmod/src for write
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces
+2018-04-04 01:34:44: File <-> Folder Change (was 0, now 1), clean it up: 
+2018-04-04 01:34:44: Scan Newly Added Folder: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IHasModel.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IHasModel.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IHasModel.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IWork.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IWork.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IWork.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IStructure.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IStructure.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IStructure.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IMetaName.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IMetaName.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IMetaName.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IMetaBlockName.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IMetaBlockName.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IMetaBlockName.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IHasModel.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IHasModel.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IWork.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IWork.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IStructure.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IStructure.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IMetaName.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IMetaName.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IMetaBlockName.java
+2018-04-04 01:34:44: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IMetaBlockName.java
+2018-04-04 01:34:44: Locking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application for write
+2018-04-04 01:34:45: Change detected [0]: t=Deleted path=/main/java/com/senpai/interfaces/IHasModel.java
+2018-04-04 01:34:45: Change detected [0]: t=Modified path=/main/java/com/senpai/interfaces
+2018-04-04 01:34:45: Change detected [0]: t=Deleted path=/main/java/com/senpai/interfaces/IWork.java
+2018-04-04 01:34:45: Change detected [0]: t=Modified path=/main/java/com/senpai/interfaces
+2018-04-04 01:34:45: Change detected [0]: t=Deleted path=/main/java/com/senpai/interfaces/IStructure.java
+2018-04-04 01:34:45: Change detected [0]: t=Modified path=/main/java/com/senpai/interfaces
+2018-04-04 01:34:45: Change detected [0]: t=Deleted path=/main/java/com/senpai/interfaces/IMetaName.java
+2018-04-04 01:34:45: Change detected [0]: t=Modified path=/main/java/com/senpai/interfaces
+2018-04-04 01:34:45: Change detected [0]: t=Deleted path=/main/java/com/senpai/interfaces/IMetaBlockName.java
+2018-04-04 01:34:45: Change detected [0]: t=Modified path=/main/java/com/senpai/interfaces
+2018-04-04 01:34:45: Change detected [0]: t=Deleted path=/main/java/com/senpai/interfaces
+2018-04-04 01:34:46: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/proxy
+2018-04-04 01:34:46: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/proxy/CommonProxy.java
+2018-04-04 01:34:46: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/proxy/ClientProxy.java
+2018-04-04 01:34:47: On disk file:///S: space required for sync is 0 bytes, you have 1.25 TB
+2018-04-04 01:34:47: On disk gdrive://www.googleapis.com space required for sync is 5.00 KB, you have 12.4 GB
+2018-04-04 01:34:47: Changes: 6, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 22194
+2018-04-04 01:34:47: Left to Right: Copy File: 6 
+2018-04-04 01:34:47: -- Analysis Complete. Time 00:00:05, Speed: 85 files/s
+2018-04-04 01:34:47: == Sync Started by On File Change, After Delay, Under Runner
+2018-04-04 01:34:47: Mod Sync: SYNC started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP'
+2018-04-04 01:34:47: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-04 01:34:48: Create Folder 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/interfaces'
+2018-04-04 01:34:48: File Systems limited number of parallel threads to 20
+2018-04-04 01:34:48: Start only 5 threads, limited by tasks to run
+2018-04-04 01:34:50: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IHasModel.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/interfaces/IHasModel.java' (106)
+2018-04-04 01:34:50: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IMetaName.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/interfaces/IMetaName.java' (163)
+2018-04-04 01:34:51: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IMetaBlockName.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/interfaces/IMetaBlockName.java' (595)
+2018-04-04 01:34:51: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IStructure.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/interfaces/IStructure.java' (633)
+2018-04-04 01:34:52: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/interfaces/IWork.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/interfaces/IWork.java' (818)
+2018-04-04 01:34:52: Save State File S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_file_state_v4._gs
+2018-04-04 01:34:53: Change detected [1]: t=Modified path=/main/java/com/senpai/util/interfaces/IWork.java
+2018-04-04 01:34:53: Change detected [1]: t=Created path=/main/java/com/senpai/util/interfaces/IWork.java
+2018-04-04 01:34:53: Change detected [1]: t=Modified path=/main/java/com/senpai/util/interfaces/IStructure.java
+2018-04-04 01:34:53: Change detected [1]: t=Created path=/main/java/com/senpai/util/interfaces/IStructure.java
+2018-04-04 01:34:54: Change detected [1]: t=Modified path=/main/java/com/senpai/util/interfaces/IMetaName.java
+2018-04-04 01:34:54: Change detected [1]: t=Created path=/main/java/com/senpai/util/interfaces/IMetaName.java
+2018-04-04 01:34:54: Change detected [1]: t=Modified path=/main/java/com/senpai/util/interfaces/IMetaBlockName.java
+2018-04-04 01:34:54: Change detected [1]: t=Created path=/main/java/com/senpai/util/interfaces/IMetaBlockName.java
+2018-04-04 01:34:54: Change detected [1]: t=Modified path=/main/java/com/senpai/util/interfaces/IHasModel.java
+2018-04-04 01:34:54: Change detected [1]: t=Created path=/main/java/com/senpai/util/interfaces/IHasModel.java
+2018-04-04 01:34:54: Change detected [1]: t=Created path=/main/java/com/senpai/util/interfaces
+2018-04-04 01:34:55: Save State File gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_file_state_v4._gs
+2018-04-04 01:34:56: Cleanup recycled files in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_saved_
+2018-04-04 01:34:56: Load Recycled DB: S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_recycled_db._gs
+2018-04-04 01:34:56: Cleanup old logs in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_
+2018-04-04 01:34:56: Cleanup recycled files in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_saved_
+2018-04-04 01:34:57: Load Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-04 01:34:57: Cleanup old logs in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_
+2018-04-04 01:34:57: == Sync Complete. Time: 00:00:10, Speed: 8.51 KB/s, OK: 6, Errors: 0
+2018-04-04 01:34:57: Unlocking folder S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/lock.gsl
+2018-04-04 01:34:57: Unlocking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/lock.gsl
+2018-04-04 01:35:00: 

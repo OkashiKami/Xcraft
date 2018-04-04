@@ -1,0 +1,44 @@
+2018-04-03 20:37:39: Connected to S:\Documents\MinecraftModding\xcraftmod\src: S: NTFS: type=NTFS vol=Data Storage flags=3E706FF
+2018-04-03 20:37:39: Connected to gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application
+2018-04-03 20:37:39: Incremental Analyze for On File Change
+2018-04-03 20:37:39: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-04-03 20:37:39: Mod Sync: ANALYSIS started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP' (GoodSync 10.8.1.1)
+2018-04-03 20:37:39: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-03 20:37:39: Exclude Hidden, Exclude System, Exclude name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-04-03 20:37:39: Locking folder S:/Documents/MinecraftModding/xcraftmod/src for write
+2018-04-03 20:37:39: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/objects/blocks/machines/engineering/BlockCore.java
+2018-04-03 20:37:39: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/objects/blocks/machines/engineering/BlockPipe.java
+2018-04-03 20:37:39: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/objects/blocks/machines/engineering/BlockEnergyCell.java
+2018-04-03 20:37:39: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/objects/blocks/machines/engineering/BlockMachine.java
+2018-04-03 20:37:39: Locking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application for write
+2018-04-03 20:37:42: On disk file:///S: space required for sync is 0 bytes, you have 1.25 TB
+2018-04-03 20:37:42: On disk gdrive://www.googleapis.com space required for sync is 0 bytes, you have 12.4 GB
+2018-04-03 20:37:42: Changes: 4, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 22084
+2018-04-03 20:37:42: Left to Right: Delete File: 4 
+2018-04-03 20:37:42: -- Analysis Complete. Time 00:00:04, Speed: 99 files/s
+2018-04-03 20:37:42: == Sync Started by On File Change, After Delay, Under Runner
+2018-04-03 20:37:42: Mod Sync: SYNC started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP'
+2018-04-03 20:37:42: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-03 20:37:44: Load Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-03 20:37:44: Delete File 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/machines/engineering/BlockCore.java'
+2018-04-03 20:37:45: Delete File 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/machines/engineering/BlockEnergyCell.java'
+2018-04-03 20:37:47: Delete File 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/machines/engineering/BlockMachine.java'
+2018-04-03 20:37:48: Delete File 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/machines/engineering/BlockPipe.java'
+2018-04-03 20:37:48: File Systems limited number of parallel threads to 20
+2018-04-03 20:37:48: Start only 0 threads, limited by tasks to run
+2018-04-03 20:37:48: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/objects/blocks/machines/engineering/BlockPipe.java
+2018-04-03 20:37:48: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/objects/blocks/machines/engineering/BlockMachine.java
+2018-04-03 20:37:48: Save State File S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_file_state_v4._gs
+2018-04-03 20:37:49: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/objects/blocks/machines/engineering/BlockEnergyCell.java
+2018-04-03 20:37:49: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/objects/blocks/machines/engineering/BlockCore.java
+2018-04-03 20:37:50: Save State File gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_file_state_v4._gs
+2018-04-03 20:37:50: Cleanup recycled files in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_saved_
+2018-04-03 20:37:50: Load Recycled DB: S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_recycled_db._gs
+2018-04-03 20:37:50: Cleanup old logs in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_
+2018-04-03 20:37:50: Cleanup recycled files in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_saved_
+2018-04-03 20:37:54: Save Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-03 20:37:54: Cleanup old logs in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_
+2018-04-03 20:37:55: == Sync Complete. Time: 00:00:13, Speed: 4.00 KB/s, OK: 4, Errors: 0
+2018-04-03 20:37:55: Unlocking folder S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/lock.gsl
+2018-04-03 20:37:55: Unlocking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/lock.gsl
+2018-04-03 20:37:56: 

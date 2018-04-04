@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "QGQ",
+        "GOG",
+        "QGQ"      
+    ],
+    
+    "key":
+    {
+        "Q":
+        {
+            "item": "minecraft:quartz_block",
+            "data": 0
+        },
+        "O":
+        {
+            "item": "minecraft:observer"
+        },
+        "G":
+        {
+            "item": "minecraft:stained_glass",
+            "data": 15
+        }
+    },
+    
+    "result":
+    {
+        "item": "sxm:reactor_core",
+        "count": 1
+    }
+}

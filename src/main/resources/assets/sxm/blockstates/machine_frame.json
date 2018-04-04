@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"type=basic": { "model": "sxm:machine_frame_basic" },
+		"type=advanced": { "model": "sxm:machine_frame_advanced" }
+	}
+}

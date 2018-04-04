@@ -1,0 +1,11 @@
+{
+    "variants": 
+    {
+        "east=none,facing=north,north=none,pawa=0,role=0,south=none,west=none": {"model": "sxm:pipe_connector_pawa"},
+        "east=none,facing=south,north=none,pawa=0,role=0,south=none,west=none": {"model": "sxm:pipe_connector_pawa", "y": 180},
+        "east=none,facing=east,north=none,pawa=0,role=0,south=none,west=none":  {"model": "sxm:pipe_connector_pawa", "y": 90},
+        "east=none,facing=west,north=none,pawa=0,role=0,south=none,west=none":  {"model": "sxm:pipe_connector_pawa", "y": 270},
+        "east=none,facing=up,north=none,pawa=0,role=0,south=none,west=none":    {"model": "sxm:pipe_connector_pawa", "x": 270},
+        "east=none,facing=down,north=none,pawa=0,role=0,south=none,west=none":  {"model": "sxm:pipe_connector_pawa", "x": 90}
+    }
+}

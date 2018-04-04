@@ -1,0 +1,8 @@
+{
+    "variants": 
+    {
+        "variant=copper": { "model": "sxm:dirt_copper" },
+        "variant=aluminium": { "model": "sxm:dirt_aluminium" },
+        "variant=tin": { "model": "sxm:dirt_tin" }
+    }
+}

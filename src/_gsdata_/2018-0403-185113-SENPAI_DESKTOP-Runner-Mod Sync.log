@@ -1,0 +1,40 @@
+2018-04-03 18:51:14: Connected to S:\Documents\MinecraftModding\xcraftmod\src: S: NTFS: type=NTFS vol=Data Storage flags=3E706FF
+2018-04-03 18:51:14: Connected to gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application
+2018-04-03 18:51:14: Incremental Analyze for On File Change
+2018-04-03 18:51:15: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-04-03 18:51:15: Mod Sync: ANALYSIS started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP' (GoodSync 10.8.1.1)
+2018-04-03 18:51:15: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-03 18:51:15: Exclude Hidden, Exclude System, Exclude name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-04-03 18:51:15: Locking folder S:/Documents/MinecraftModding/xcraftmod/src for write
+2018-04-03 18:51:15: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_beacon.json
+2018-04-03 18:51:15: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_beacon.json
+2018-04-03 18:51:15: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_beacon.json
+2018-04-03 18:51:15: Locking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application for write
+2018-04-03 18:51:18: Change detected [0]: t=Modified path=/main/resources/assets/sxm/models/block/block_beacon.json
+2018-04-03 18:51:18: Change detected [0]: t=Modified path=/main/resources/assets/sxm/models/block/block_beacon.json
+2018-04-03 18:51:19: Change detected [0]: t=Modified path=/main/resources/assets/sxm/models/block/block_beacon.json
+2018-04-03 18:51:21: On disk file:///S: space required for sync is 0 bytes, you have 1.25 TB
+2018-04-03 18:51:21: On disk gdrive://www.googleapis.com space required for sync is 16.0 KB, you have 12.4 GB
+2018-04-03 18:51:22: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 22083
+2018-04-03 18:51:22: Left to Right: Copy File: 1 
+2018-04-03 18:51:22: -- Analysis Complete. Time 00:00:08, Speed: 49 files/s
+2018-04-03 18:51:22: == Sync Started by On File Change, After Delay, Under Runner
+2018-04-03 18:51:22: Mod Sync: SYNC started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP'
+2018-04-03 18:51:22: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-03 18:51:22: File Systems limited number of parallel threads to 20
+2018-04-03 18:51:22: Start only 1 threads, limited by tasks to run
+2018-04-03 18:51:25: Load Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-03 18:51:27: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_beacon.json: Source file has changed between Analyze and Sync from '[file] size=16302 accu-time=2018-04-03 18:51:02 attr=Archive cktype=0' to 'size=52482 time=2018-04-03 18:51:18', noted in source file state
+2018-04-03 18:51:27: Copy Over 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_beacon.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/block_beacon.json' (16302)
+2018-04-03 18:51:27: Save State File S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_file_state_v4._gs
+2018-04-03 18:51:28: Save State File gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_file_state_v4._gs
+2018-04-03 18:51:28: Cleanup recycled files in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_saved_
+2018-04-03 18:51:28: Load Recycled DB: S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_recycled_db._gs
+2018-04-03 18:51:28: Cleanup old logs in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_
+2018-04-03 18:51:29: Cleanup recycled files in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_saved_
+2018-04-03 18:51:30: Save Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-03 18:51:30: Cleanup old logs in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_
+2018-04-03 18:51:30: == Sync Complete. Time: 00:00:08, Speed: 10.6 KB/s, OK: 1, Errors: 0
+2018-04-03 18:51:30: Unlocking folder S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/lock.gsl
+2018-04-03 18:51:30: Unlocking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/lock.gsl
+2018-04-03 18:51:31: 

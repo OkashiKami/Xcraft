@@ -1,0 +1,232 @@
+{
+	"credit": "SenpaiKun [Wicky Gustave]",
+	"parent": "block/orientable",
+	"textures": {
+		"0": "blocks/gold_block",
+		"2": "blocks/concrete_white"
+	},
+	"elements": [
+		{
+			"name": "center_elements",
+			"from": [7, 15, 7],
+			"to": [9, 17, 9],
+			"faces": {
+				"north": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"rotation": 90,
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"rotation": 270,
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"rotation": 90,
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"rotation": 90,
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"rotation": 180,
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"tintindex": 0
+				}
+			},
+			"rotation": {
+				"origin": [8, 8, 8],
+				"axis": "x",
+				"angle": 0
+			},
+			"type": "cube"
+		},
+		{
+			"name": "center_elements",
+			"from": [7, 11, 7],
+			"to": [9, 15, 9],
+			"faces": {
+				"north": {
+					"uv": [0, 0, 1, 4],
+					"texture": "#2",
+					"rotation": 90
+				},
+				"east": {
+					"uv": [0, 0, 1, 1],
+					"texture": "#2",
+					"rotation": 270
+				},
+				"south": {
+					"uv": [0, 0, 1, 4],
+					"texture": "#2",
+					"rotation": 90
+				},
+				"west": {
+					"uv": [0, 0, 1, 1],
+					"texture": "#2",
+					"rotation": 90
+				},
+				"up": {
+					"uv": [0, 0, 4, 1],
+					"texture": "#2",
+					"rotation": 180
+				},
+				"down": {"uv": [0, 0, 4, 1], "texture": "#2"}
+			},
+			"rotation": {
+				"origin": [8, 8, 8],
+				"axis": "x",
+				"angle": 0
+			},
+			"type": "cube"
+		},
+		{
+			"name": "center_elements",
+			"from": [7, 10, 7],
+			"to": [9, 11, 9],
+			"faces": {
+				"north": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"rotation": 90,
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"rotation": 270,
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"rotation": 90,
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"rotation": 90,
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"rotation": 180,
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"tintindex": 0
+				}
+			},
+			"rotation": {
+				"origin": [8, 8, 8],
+				"axis": "x",
+				"angle": 0
+			},
+			"type": "cube"
+		},
+		{
+			"name": "center_elements",
+			"from": [7, 17, 7],
+			"to": [9, 21, 9],
+			"faces": {
+				"north": {
+					"uv": [0, 0, 1, 4],
+					"texture": "#2",
+					"rotation": 90
+				},
+				"east": {
+					"uv": [0, 0, 1, 1],
+					"texture": "#2",
+					"rotation": 270
+				},
+				"south": {
+					"uv": [0, 0, 1, 4],
+					"texture": "#2",
+					"rotation": 90
+				},
+				"west": {
+					"uv": [0, 0, 1, 1],
+					"texture": "#2",
+					"rotation": 90
+				},
+				"up": {
+					"uv": [0, 0, 4, 1],
+					"texture": "#2",
+					"rotation": 180
+				},
+				"down": {"uv": [0, 0, 4, 1], "texture": "#2"}
+			},
+			"rotation": {
+				"origin": [8, 14, 8],
+				"axis": "x",
+				"angle": 0
+			},
+			"type": "cube"
+		},
+		{
+			"name": "center_elements",
+			"from": [7, 21, 7],
+			"to": [9, 22, 9],
+			"faces": {
+				"north": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"rotation": 90,
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"rotation": 270,
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"rotation": 90,
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"rotation": 90,
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"rotation": 180,
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [1, 1, 15, 15],
+					"texture": "#0",
+					"tintindex": 0
+				}
+			},
+			"rotation": {
+				"origin": [8, 14, 8],
+				"axis": "x",
+				"angle": 0
+			},
+			"type": "cube"
+		}
+	]
+}

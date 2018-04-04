@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "check_decay=true,decayable=true,variant=copper": { "model": "sxm:leaves_copper" },
+        "check_decay=true,decayable=false,variant=copper": { "model": "sxm:leaves_copper" },
+        "check_decay=false,decayable=true,variant=copper": { "model": "sxm:leaves_copper" },
+        "check_decay=false,decayable=false,variant=copper": { "model": "sxm:leaves_copper" },
+        
+        "check_decay=true,decayable=true,variant=aluminium": { "model": "sxm:leaves_aluminium" },
+        "check_decay=true,decayable=false,variant=aluminium": { "model": "sxm:leaves_aluminium" },
+        "check_decay=false,decayable=true,variant=aluminium": { "model": "sxm:leaves_aluminium" },
+        "check_decay=false,decayable=false,variant=aluminium": { "model": "sxm:leaves_aluminium" },
+        
+        "check_decay=true,decayable=true,variant=tin": { "model": "sxm:leaves_tin" },
+        "check_decay=true,decayable=false,variant=tin": { "model": "sxm:leaves_tin" },
+        "check_decay=false,decayable=true,variant=tin": { "model": "sxm:leaves_tin" },
+        "check_decay=false,decayable=false,variant=tin": { "model": "sxm:leaves_tin" }
+    }
+}

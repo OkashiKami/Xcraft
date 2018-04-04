@@ -1,0 +1,16 @@
+[
+	{
+	  "modid": "sxm",
+	  "name": "Xcraft Mod",
+	  "description": "Xcraft is an extention for more power to minecraft.",
+	  "version": "1.0",
+	  "mcversion": "[1.12.2]",
+	  "url": "",
+	  "updateUrl": "",
+	  "authorList": ["MC: SenpaiKurosaki"],
+	  "credits": "Thanks to all my subscribers! :)",
+	  "logoFile": "",
+	  "screenshots": [],
+	  "dependencies": []
+	}
+]

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "OGO",
+        " G ",
+        "OGO"      
+    ],
+    
+    "key":
+    {
+        "O":
+        {
+            "item": "minecraft:gold_block"
+        },
+        "G":
+        {
+            "item": "minecraft:glass",
+            "data": 0
+        }
+    },
+    
+    "result":
+    {
+        "item": "sxm:pipe",
+        "count": 1
+    }
+}

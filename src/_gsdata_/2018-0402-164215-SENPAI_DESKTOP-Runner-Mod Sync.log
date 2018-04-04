@@ -1,0 +1,59 @@
+2018-04-02 16:42:16: Connected to S:\Documents\MinecraftModding\xcraftmod\src: S: NTFS: type=NTFS vol=Data Storage flags=3E706FF
+2018-04-02 16:42:16: Connected to gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application
+2018-04-02 16:42:16: Incremental Analyze for On File Change
+2018-04-02 16:42:17: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-04-02 16:42:17: Mod Sync: ANALYSIS started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP' (GoodSync 10.8.1.1)
+2018-04-02 16:42:17: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-02 16:42:17: Exclude Hidden, Exclude System, Exclude name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-04-02 16:42:17: Locking folder S:/Documents/MinecraftModding/xcraftmod/src for write
+2018-04-02 16:42:17: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/tileEntities/EnergyCell/BlockSinteringFurnace.java
+2018-04-02 16:42:17: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/tileEntities/EnergyCell/ContainerSinteringFurnace.java
+2018-04-02 16:42:17: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/tileEntities/EnergyCell/TileEntitySinteringFurnace.java
+2018-04-02 16:42:17: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/tileEntities/EnergyCell/TileEntitySinteringFurnace.java
+2018-04-02 16:42:17: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/tileEntities/EnergyCell/SinteringFurnaceRecipes.java
+2018-04-02 16:42:17: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/tileEntities/EnergyCell/BlockSinteringFurnace.java
+2018-04-02 16:42:17: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/tileEntities/EnergyCell/SinteringFurnaceRecipes.java
+2018-04-02 16:42:17: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/util/tileEntities/EnergyCell/TileEntitySinteringFurnace.java
+2018-04-02 16:42:17: Locking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application for write
+2018-04-02 16:42:19: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/tileEntities/EnergyCell/slots/SlotSinteringFurnaceOutput.java
+2018-04-02 16:42:19: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/tileEntities/EnergyCell/slots/SlotSinteringFurnaceOutput.java
+2018-04-02 16:42:19: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/tileEntities/EnergyCell/slots/SlotSinteringFurnaceFuel.java
+2018-04-02 16:42:19: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/tileEntities/EnergyCell/slots/SlotSinteringFurnaceFuel.java
+2018-04-02 16:42:20: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/tileEntities/EnergyCell/GuiSinteringFurnace.java
+2018-04-02 16:42:20: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/tileEntities/EnergyCell/GuiSinteringFurnace.java
+2018-04-02 16:42:20: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/tileEntities/EnergyCell/ContainerSinteringFurnace.java
+2018-04-02 16:42:20: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/tileEntities/EnergyCell/ContainerSinteringFurnace.java
+2018-04-02 16:42:20: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/tileEntities/EnergyCell/BlockSinteringFurnace.java
+2018-04-02 16:42:20: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/tileEntities/EnergyCell/BlockSinteringFurnace.java
+2018-04-02 16:42:21: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/tileEntities/EnergyCell/slots
+2018-04-02 16:42:21: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/tileEntities/EnergyCell/SinteringFurnaceRecipes.java
+2018-04-02 16:42:21: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/tileEntities/EnergyCell/TileEntitySinteringFurnace.java
+2018-04-02 16:42:22: On disk file:///S: space required for sync is 0 bytes, you have 1.25 TB
+2018-04-02 16:42:22: On disk gdrive://www.googleapis.com space required for sync is 0 bytes, you have 12.4 GB
+2018-04-02 16:42:22: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 2, Errors: 0, All: 21950
+2018-04-02 16:42:22: Left to Right: Delete File: 1 
+2018-04-02 16:42:22: -- Analysis Complete. Time 00:00:07, Speed: 43 files/s
+2018-04-02 16:42:22: == Sync Started by On File Change, After Delay, Under Runner
+2018-04-02 16:42:22: Mod Sync: SYNC started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP'
+2018-04-02 16:42:22: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-02 16:42:24: Load Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-02 16:42:24: Delete File 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/tileEntities/EnergyCell/BlockSinteringFurnace.java'
+2018-04-02 16:42:24: Sync State Merge: /main/java/com/senpai/util/tileEntities/EnergyCell/SinteringFurnaceRecipes.java
+2018-04-02 16:42:24: Sync State Merge: /main/java/com/senpai/util/tileEntities/EnergyCell/TileEntitySinteringFurnace.java
+2018-04-02 16:42:25: File Systems limited number of parallel threads to 20
+2018-04-02 16:42:25: Start only 0 threads, limited by tasks to run
+2018-04-02 16:42:25: Save State File S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_file_state_v4._gs
+2018-04-02 16:42:26: Change detected [0]: t=MovedFrom path=/main/java/com/senpai/util/tileEntities/EnergyCell/GuiSinteringFurnace.java
+2018-04-02 16:42:26: Change detected [0]: t=MovedTo path=/main/java/com/senpai/util/tileEntities/EnergyCell/GuiEnergyCell.java
+2018-04-02 16:42:26: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/util/tileEntities/EnergyCell/BlockSinteringFurnace.java
+2018-04-02 16:42:26: Save State File gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_file_state_v4._gs
+2018-04-02 16:42:26: Cleanup recycled files in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_saved_
+2018-04-02 16:42:26: Load Recycled DB: S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_recycled_db._gs
+2018-04-02 16:42:26: Cleanup old logs in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_
+2018-04-02 16:42:26: Cleanup recycled files in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_saved_
+2018-04-02 16:42:27: Save Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-02 16:42:27: Cleanup old logs in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_
+2018-04-02 16:42:28: == Sync Complete. Time: 00:00:06, Speed: 8.00 KB/s, OK: 3, Errors: 0
+2018-04-02 16:42:28: Unlocking folder S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/lock.gsl
+2018-04-02 16:42:28: Unlocking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/lock.gsl
+2018-04-02 16:42:29: 

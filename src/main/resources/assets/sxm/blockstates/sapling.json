@@ -1,0 +1,13 @@
+{
+    "variants": 
+    {
+        "stage=0,variant=copper": { "model": "sxm:sapling_copper" },
+        "stage=1,variant=copper": { "model": "sxm:sapling_copper" },
+        
+        "stage=0,variant=aluminium": { "model": "sxm:sapling_aluminium" },
+        "stage=1,variant=aluminium": { "model": "sxm:sapling_aluminium" },
+        
+         "stage=0,variant=tin": { "model": "sxm:sapling_tin" },
+        "stage=1,variant=tin": { "model": "sxm:sapling_tin" }
+    }
+}

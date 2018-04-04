@@ -1,0 +1,117 @@
+2018-04-04 01:37:22: Connected to S:\Documents\MinecraftModding\xcraftmod\src: S: NTFS: type=NTFS vol=Data Storage flags=3E706FF
+2018-04-04 01:37:23: Connected to gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application
+2018-04-04 01:37:23: Incremental Analyze for On File Change
+2018-04-04 01:37:23: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-04-04 01:37:23: Mod Sync: ANALYSIS started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP' (GoodSync 10.8.1.1)
+2018-04-04 01:37:23: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-04 01:37:23: Exclude Hidden, Exclude System, Exclude name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-04-04 01:37:23: Locking folder S:/Documents/MinecraftModding/xcraftmod/src for write
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers
+2018-04-04 01:37:23: File <-> Folder Change (was 0, now 1), clean it up: 
+2018-04-04 01:37:23: Scan Newly Added Folder: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/Mathf.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/Mathf.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/Mathf.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/RegistryHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/RegistryHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/RegistryHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/EnumHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/EnumHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/EnumHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/LootTableHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/LootTableHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/LootTableHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/RenderHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/RenderHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/RenderHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/SoundsHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/SoundsHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/SoundsHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/TileEntityHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/TileEntityHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/TileEntityHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/Mathf.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/Mathf.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/RegistryHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/RegistryHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/EnumHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/EnumHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/LootTableHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/LootTableHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/RenderHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/RenderHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/SoundsHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/SoundsHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/TileEntityHandler.java
+2018-04-04 01:37:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/TileEntityHandler.java
+2018-04-04 01:37:23: Locking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application for write
+2018-04-04 01:37:23: Change detected [0]: t=Deleted path=/main/java/com/senpai/util/handlers/Mathf.java
+2018-04-04 01:37:23: Change detected [0]: t=Modified path=/main/java/com/senpai/util/handlers
+2018-04-04 01:37:23: Change detected [0]: t=Deleted path=/main/java/com/senpai/util/handlers/RegistryHandler.java
+2018-04-04 01:37:23: Change detected [0]: t=Modified path=/main/java/com/senpai/util/handlers
+2018-04-04 01:37:23: Change detected [0]: t=Deleted path=/main/java/com/senpai/util/handlers/EnumHandler.java
+2018-04-04 01:37:23: Change detected [0]: t=Modified path=/main/java/com/senpai/util/handlers
+2018-04-04 01:37:23: Change detected [0]: t=Deleted path=/main/java/com/senpai/util/handlers/LootTableHandler.java
+2018-04-04 01:37:23: Change detected [0]: t=Modified path=/main/java/com/senpai/util/handlers
+2018-04-04 01:37:23: Change detected [0]: t=Deleted path=/main/java/com/senpai/util/handlers/RenderHandler.java
+2018-04-04 01:37:23: Change detected [0]: t=Modified path=/main/java/com/senpai/util/handlers
+2018-04-04 01:37:23: Change detected [0]: t=Deleted path=/main/java/com/senpai/util/handlers/SoundsHandler.java
+2018-04-04 01:37:23: Change detected [0]: t=Modified path=/main/java/com/senpai/util/handlers
+2018-04-04 01:37:23: Change detected [0]: t=Deleted path=/main/java/com/senpai/util/handlers/TileEntityHandler.java
+2018-04-04 01:37:23: Change detected [0]: t=Modified path=/main/java/com/senpai/util/handlers
+2018-04-04 01:37:23: Change detected [0]: t=Deleted path=/main/java/com/senpai/util/handlers
+2018-04-04 01:37:24: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/interfaces
+2018-04-04 01:37:25: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/interfaces/IWork.java
+2018-04-04 01:37:25: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/interfaces/IStructure.java
+2018-04-04 01:37:25: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/interfaces/IMetaName.java
+2018-04-04 01:37:25: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/interfaces/IMetaBlockName.java
+2018-04-04 01:37:25: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/util/interfaces/IHasModel.java
+2018-04-04 01:37:26: On disk file:///S: space required for sync is 0 bytes, you have 1.25 TB
+2018-04-04 01:37:26: On disk gdrive://www.googleapis.com space required for sync is 13.0 KB, you have 12.4 GB
+2018-04-04 01:37:26: Changes: 8, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 22201
+2018-04-04 01:37:26: Left to Right: Copy File: 8 
+2018-04-04 01:37:26: -- Analysis Complete. Time 00:00:05, Speed: 85 files/s
+2018-04-04 01:37:26: == Sync Started by On File Change, After Delay, Under Runner
+2018-04-04 01:37:26: Mod Sync: SYNC started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP'
+2018-04-04 01:37:26: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-04 01:37:26: Create Folder 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/handlers'
+2018-04-04 01:37:27: File Systems limited number of parallel threads to 20
+2018-04-04 01:37:27: Start only 7 threads, limited by tasks to run
+2018-04-04 01:37:29: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/LootTableHandler.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/handlers/LootTableHandler.java' (331)
+2018-04-04 01:37:30: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/EnumHandler.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/handlers/EnumHandler.java' (4299)
+2018-04-04 01:37:30: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/Mathf.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/handlers/Mathf.java' (942)
+2018-04-04 01:37:31: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/SoundsHandler.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/handlers/SoundsHandler.java' (880)
+2018-04-04 01:37:31: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/TileEntityHandler.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/handlers/TileEntityHandler.java' (652)
+2018-04-04 01:37:31: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/RenderHandler.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/handlers/RenderHandler.java' (721)
+2018-04-04 01:37:32: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/handlers/RegistryHandler.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/handlers/RegistryHandler.java' (2727)
+2018-04-04 01:37:32: Save State File S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_file_state_v4._gs
+2018-04-04 01:37:36: Change detected [1]: t=Modified path=/main/java/com/senpai/handlers/TileEntityHandler.java
+2018-04-04 01:37:37: Change detected [1]: t=Modified path=/main/java/com/senpai/handlers/RegistryHandler.java
+2018-04-04 01:37:37: Change detected [1]: t=Modified path=/main/java/com/senpai/handlers/SoundsHandler.java
+2018-04-04 01:37:37: Change detected [1]: t=Modified path=/main/java/com/senpai/handlers/Mathf.java
+2018-04-04 01:37:37: Change detected [1]: t=Modified path=/main/java/com/senpai/handlers/RenderHandler.java
+2018-04-04 01:37:37: Change detected [1]: t=Created path=/main/java/com/senpai/handlers/TileEntityHandler.java
+2018-04-04 01:37:38: Change detected [1]: t=Created path=/main/java/com/senpai/handlers/RenderHandler.java
+2018-04-04 01:37:38: Change detected [1]: t=Created path=/main/java/com/senpai/handlers/SoundsHandler.java
+2018-04-04 01:37:38: Change detected [1]: t=Created path=/main/java/com/senpai/handlers/RegistryHandler.java
+2018-04-04 01:37:38: Change detected [1]: t=Modified path=/main/java/com/senpai/handlers/EnumHandler.java
+2018-04-04 01:37:39: Change detected [1]: t=Modified path=/main/java/com/senpai/handlers/LootTableHandler.java
+2018-04-04 01:37:39: Change detected [1]: t=Created path=/main/java/com/senpai/handlers/Mathf.java
+2018-04-04 01:37:40: Change detected [1]: t=Created path=/main/java/com/senpai/handlers/LootTableHandler.java
+2018-04-04 01:37:40: Change detected [1]: t=Created path=/main/java/com/senpai/handlers/EnumHandler.java
+2018-04-04 01:37:40: Change detected [1]: t=Created path=/main/java/com/senpai/handlers
+2018-04-04 01:37:41: Save State File gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_file_state_v4._gs
+2018-04-04 01:37:41: Cleanup recycled files in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_saved_
+2018-04-04 01:37:41: Load Recycled DB: S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_recycled_db._gs
+2018-04-04 01:37:41: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-013708-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 01:37:41: Cleanup old logs in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_
+2018-04-04 01:37:41: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-013708-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 01:37:41: Cleanup recycled files in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_saved_
+2018-04-04 01:37:43: Load Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-04 01:37:43: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-013708-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 01:37:43: Cleanup old logs in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_
+2018-04-04 01:37:44: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-013708-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 01:37:44: == Sync Complete. Time: 00:00:18, Speed: 10.0 KB/s, OK: 8, Errors: 0
+2018-04-04 01:37:44: Unlocking folder S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/lock.gsl
+2018-04-04 01:37:44: Unlocking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/lock.gsl
+2018-04-04 01:37:45: 

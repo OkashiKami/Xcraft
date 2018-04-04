@@ -1,0 +1,71 @@
+{
+	"credit": "SenpaiKun [Wicky Gustave]",
+	"parent": "block/block",
+	"textures": {"all": "sxm:blocks/canvas"},
+	"elements": [
+		{
+			"name": "cube",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#all",
+					"cullface": "north",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#all",
+					"cullface": "east",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#all",
+					"cullface": "south",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#all",
+					"cullface": "west",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#all",
+					"cullface": "up",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#all",
+					"cullface": "down",
+					"tintindex": 0
+				}
+			},
+			"type": "cube"
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {"scale": [0.3, 0.3, 0.3]},
+		"thirdperson_lefthand": {"scale": [0.3, 0.3, 0.3]},
+		"firstperson_righthand": {"scale": [0.3, 0.3, 0.3]},
+		"firstperson_lefthand": {"scale": [0.3, 0.3, 0.3]},
+		"ground": {
+			"scale": [0.3, 0.3, 0.3],
+			"translation": [0, 0, 0],
+			"rotation": [35, 0, 0]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5],
+			"translation": [0.5, 0, 0],
+			"rotation": [-80, 123, 45]
+		},
+		"gui": {
+			"scale": [0.5, 0.5, 0.5],
+			"rotation": [53, 40, 0]
+		}
+	}
+}

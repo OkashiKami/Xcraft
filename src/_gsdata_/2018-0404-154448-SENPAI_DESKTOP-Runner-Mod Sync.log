@@ -1,0 +1,261 @@
+2018-04-04 15:44:49: Connected to S:\Documents\MinecraftModding\xcraftmod\src: S: NTFS: type=NTFS vol=Data Storage flags=3E706FF
+2018-04-04 15:44:50: Connected to gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application
+2018-04-04 15:44:50: Incremental Analyze for On File Change
+2018-04-04 15:44:50: Change detected [0]: t=MovedFrom path=/main/resources/assets/sxm/textures/items/tin_stick.png
+2018-04-04 15:44:50: Change detected [0]: t=MovedTo path=/main/resources/assets/sxm/textures/items/stick_tin.png
+2018-04-04 15:44:50: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-04-04 15:44:50: Mod Sync: ANALYSIS started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP' (GoodSync 10.8.1.1)
+2018-04-04 15:44:50: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-04 15:44:50: Exclude Hidden, Exclude System, Exclude name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-04-04 15:44:50: Locking folder S:/Documents/MinecraftModding/xcraftmod/src for write
+2018-04-04 15:44:50: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/textures/items/tin_sword.png
+2018-04-04 15:44:50: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/textures/items/sword_tin.png
+2018-04-04 15:44:50: Locking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application for write
+2018-04-04 15:44:53: On disk file:///S: space required for sync is 0 bytes, you have 1.25 TB
+2018-04-04 15:44:53: On disk gdrive://www.googleapis.com space required for sync is 0 bytes, you have 12.4 GB
+2018-04-04 15:44:53: Changes: 2, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 22400
+2018-04-04 15:44:53: Left to Right: Rename/Move File/Folder: 2 
+2018-04-04 15:44:53: -- Analysis Complete. Time 00:00:05, Speed: 110 files/s
+2018-04-04 15:44:53: == Sync Started by On File Change, After Delay, Under Runner
+2018-04-04 15:44:53: Mod Sync: SYNC started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP'
+2018-04-04 15:44:53: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-04 15:44:54: File Systems limited number of parallel threads to 20
+2018-04-04 15:44:54: Start only 2 threads, limited by tasks to run
+2018-04-04 15:44:55: Move File gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_sword.png -> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/sword_tin.png
+2018-04-04 15:44:55: Save State File S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_file_state_v4._gs
+2018-04-04 15:44:57: Save State File gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_file_state_v4._gs
+2018-04-04 15:44:57: Cleanup recycled files in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_saved_
+2018-04-04 15:44:57: Load Recycled DB: S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_recycled_db._gs
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-033609-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-033821-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-033845-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-034118-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-034139-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-034224-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-034254-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-034630-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-034654-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-034731-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-034755-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-034816-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-034840-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-035143-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-035213-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-035413-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-035437-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-035516-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-035540-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-035610-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-035634-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-035710-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-035734-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-035837-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-035858-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-040839-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-040906-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-040942-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-041006-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-041021-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-041045-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-041112-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-041136-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-041203-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-041224-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-041524-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-041545-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-041745-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-041812-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-041830-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-041854-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-041927-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-041951-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-042015-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-042036-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-042121-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-042145-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-042209-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-042233-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-042257-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-042436-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-042500-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-042524-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-042548-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-042839-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-043036-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-043139-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-043203-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-043218-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-043242-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-102618-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-104136-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-104434-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-151842-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-151957-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-152637-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-152704-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-152740-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-152804-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-153758-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-153828-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Cleanup old logs in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-033609-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-033821-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-034118-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-034224-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-034630-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-034731-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-034816-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-035143-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-035413-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-035516-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-035540-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-035610-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-035710-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-035837-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-040839-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-040942-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-041021-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-041112-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-041203-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-041524-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-041745-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-041830-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-041927-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-042015-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-042121-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-042145-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-042233-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-042436-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-042524-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-042839-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-043139-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-043218-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-104136-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-151842-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-152637-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-152740-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-153758-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:57: Cleanup recycled files in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_saved_
+2018-04-04 15:44:58: Load Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-033609-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-033821-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-033845-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-034118-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-034139-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-034224-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-034254-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-034630-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-034654-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-034731-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-034755-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-034816-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-034840-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-035143-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-035213-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-035413-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-035437-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-035516-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-035540-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-035610-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-035634-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-035710-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-035734-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-035837-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-035858-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-040839-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-040906-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-040942-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-041006-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-041021-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-041045-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-041112-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-041136-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-041203-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-041224-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-041524-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-041545-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-041745-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-041812-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-041830-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-041854-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-041927-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-041951-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-042015-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-042036-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-042121-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-042145-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-042209-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-042233-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-042257-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-042436-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-042500-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-042524-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-042548-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-042839-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-043036-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-043139-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-043203-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-043218-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-043242-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-102618-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-104136-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-104434-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-151842-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-151957-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-152637-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-152704-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-152740-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-152804-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-153758-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-153828-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:44:59: Cleanup old logs in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_
+2018-04-04 15:44:59: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-041830-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:00: Change detected [1]: t=Modified path=/main/resources/assets/sxm/textures/items/sword_tin.png
+2018-04-04 15:45:00: Change detected [1]: t=MovedTo path=/main/resources/assets/sxm/textures/items/sword_tin.png
+2018-04-04 15:45:00: Change detected [1]: t=MovedFrom path=/main/resources/assets/sxm/textures/items/tin_sword.png
+2018-04-04 15:45:01: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-043139-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:01: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-153758-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:02: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-042145-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:03: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-035610-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:04: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-041021-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:05: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-152740-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:05: Change detected [0]: t=MovedFrom path=/main/resources/assets/sxm/textures/items/tin_shovel.png
+2018-04-04 15:45:05: Change detected [0]: t=MovedTo path=/main/resources/assets/sxm/textures/items/shovel_tin.png
+2018-04-04 15:45:05: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-035516-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:06: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-042436-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:07: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-035710-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:08: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-104136-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:09: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-042524-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:09: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-035837-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:10: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-035540-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:11: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-042839-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:11: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-042233-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:12: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-034118-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:13: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-151842-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:14: Change detected [0]: t=MovedFrom path=/main/resources/assets/sxm/textures/items/tin_pickaxe.png
+2018-04-04 15:45:14: Change detected [0]: t=MovedTo path=/main/resources/assets/sxm/textures/items/pickaxe_tin.png
+2018-04-04 15:45:14: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-034630-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:15: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-041927-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:15: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-041524-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:16: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-041203-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:17: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-042121-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:17: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-034816-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:18: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-033609-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:19: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-042015-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:19: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-041112-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:20: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-034731-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:21: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-043218-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:22: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-035143-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:22: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-035413-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:23: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-033821-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:24: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-034224-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:24: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-040942-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:25: Change detected [0]: t=MovedFrom path=/main/resources/assets/sxm/textures/items/tin_nugget.png
+2018-04-04 15:45:25: Change detected [0]: t=MovedTo path=/main/resources/assets/sxm/textures/items/nugget_tin.png
+2018-04-04 15:45:25: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-040839-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:26: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-152637-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:27: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-041745-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 15:45:27: == Sync Complete. Time: 00:00:34, Speed: 0 bytes/s, OK: 2, Errors: 0
+2018-04-04 15:45:27: Unlocking folder S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/lock.gsl
+2018-04-04 15:45:27: Unlocking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/lock.gsl
+2018-04-04 15:45:28: 

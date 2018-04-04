@@ -1,0 +1,12 @@
+{
+   "parent": "block/orientable",
+    "textures": {
+        "particle": "sxm:blocks/reactor_face",
+        "up": "sxm:blocks/reactor_top",
+        "down": "sxm:blocks/reactor_bottom",
+        "north": "sxm:blocks/reactor_face",
+        "east": "sxm:blocks/reactor_sides",
+        "south": "sxm:blocks/reactor_back",
+        "west": "sxm:blocks/reactor_sides"
+    }
+}

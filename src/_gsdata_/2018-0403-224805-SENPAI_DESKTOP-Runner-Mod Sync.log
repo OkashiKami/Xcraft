@@ -1,0 +1,139 @@
+2018-04-03 22:48:06: Connected to S:\Documents\MinecraftModding\xcraftmod\src: S: NTFS: type=NTFS vol=Data Storage flags=3E706FF
+2018-04-03 22:48:06: Connected to gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application
+2018-04-03 22:48:06: Incremental Analyze for On File Change
+2018-04-03 22:48:07: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-04-03 22:48:07: Mod Sync: ANALYSIS started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP' (GoodSync 10.8.1.1)
+2018-04-03 22:48:07: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-03 22:48:07: Exclude Hidden, Exclude System, Exclude name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-04-03 22:48:07: Locking folder S:/Documents/MinecraftModding/xcraftmod/src for write
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/biomes/BiomeCopper.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/biomes/BiomeCopper.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/biomes/BiomeFoz.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/biomes/BiomeFoz.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/init/BlockInit.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/init/BlockInit.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/objects/blocks/BlockTeleporter.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/objects/blocks/BlockTeleporter.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/gen/generators/WorldGenAluminiumTree.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/gen/generators/WorldGenAluminiumTree.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/gen/generators/WorldGenCopperTree.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/gen/generators/WorldGenCopperTree.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/gen/WorldGenCustomOres.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/gen/WorldGenCustomOres.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/objects/blocks/BlockOres.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockOres.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockOres.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockOres.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/objects/blocks/BlockRicePlant.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockRicePlant.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockRicePlant.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockRicePlant.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/objects/blocks/BlockLeaf.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockLeaf.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockLeaf.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockLeaf.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/objects/blocks/BlockPlank.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockPlank.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockPlank.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockPlank.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/objects/blocks/BlockLogs.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockLogs.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockLogs.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockLogs.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/objects/blocks/BlockTeleporter.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockTeleporter.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockTeleporter.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockTeleporter.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockLeaf.java
+2018-04-03 22:48:07: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/gen/generators/WorldGenCopperTree.java
+2018-04-03 22:48:07: Locking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application for write
+2018-04-03 22:48:08: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/init/BlockInit.java
+2018-04-03 22:48:08: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockDirts.java
+2018-04-03 22:48:08: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockDirts.java
+2018-04-03 22:48:09: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/BlockDirts.java
+2018-04-03 22:48:09: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/world/biomes/BiomeCopper.java
+2018-04-03 22:48:09: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/world/biomes/BiomeFoz.java
+2018-04-03 22:48:09: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/world/biomes/BiomeCopper.java
+2018-04-03 22:48:09: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/world/biomes/BiomeFoz.java
+2018-04-03 22:48:09: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/init/BlockInit.java
+2018-04-03 22:48:09: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/world/biomes/BiomeFoz.java
+2018-04-03 22:48:09: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/init/BlockInit.java
+2018-04-03 22:48:10: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/world/biomes/BiomeCopper.java
+2018-04-03 22:48:10: On disk file:///S: space required for sync is 0 bytes, you have 1.25 TB
+2018-04-03 22:48:10: On disk gdrive://www.googleapis.com space required for sync is 36.0 KB, you have 12.4 GB
+2018-04-03 22:48:10: Changes: 15, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 22119
+2018-04-03 22:48:10: Left to Right: Copy File: 9 Delete File: 6 
+2018-04-03 22:48:10: -- Analysis Complete. Time 00:00:05, Speed: 84 files/s
+2018-04-03 22:48:10: == Sync Started by On File Change, After Delay, Under Runner
+2018-04-03 22:48:10: Mod Sync: SYNC started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP'
+2018-04-03 22:48:10: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-03 22:48:12: Change detected [0]: t=Modified path=/main/java/com/senpai/objects/blocks/BlockSaplings.java
+2018-04-03 22:48:12: Change detected [0]: t=Modified path=/main/java/com/senpai/objects/blocks/BlockSaplings.java
+2018-04-03 22:48:12: Load Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-03 22:48:12: Delete File 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/BlockLeaf.java'
+2018-04-03 22:48:14: Delete File 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/BlockLogs.java'
+2018-04-03 22:48:15: Delete File 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/BlockOres.java'
+2018-04-03 22:48:16: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/objects/blocks/BlockOres.java
+2018-04-03 22:48:16: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/objects/blocks/BlockLogs.java
+2018-04-03 22:48:16: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/objects/blocks/BlockLeaf.java
+2018-04-03 22:48:16: Delete File 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/BlockPlank.java'
+2018-04-03 22:48:17: Delete File 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/BlockRicePlant.java'
+2018-04-03 22:48:18: Delete File 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/BlockTeleporter.java'
+2018-04-03 22:48:19: File Systems limited number of parallel threads to 20
+2018-04-03 22:48:19: Start only 9 threads, limited by tasks to run
+2018-04-03 22:48:20: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockLogs.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockLogs.java' (3927)
+2018-04-03 22:48:21: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockOres.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockOres.java' (3269)
+2018-04-03 22:48:22: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockPlank.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockPlank.java' (3305)
+2018-04-03 22:48:23: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockRicePlant.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockRicePlant.java' (2316)
+2018-04-03 22:48:24: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockTeleporter.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockTeleporter.java' (2987)
+2018-04-03 22:48:24: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockLeaf.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockLeaf.java' (4510)
+2018-04-03 22:48:27: Change detected [0]: t=Modified path=/main/java/com/senpai/objects/blocks/BlockSaplings.java
+2018-04-03 22:48:28: Copy Over 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/gen/generators/WorldGenCopperTree.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/world/gen/generators/WorldGenCopperTree.java' (4168)
+2018-04-03 22:48:28: Copy Over 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/gen/WorldGenCustomOres.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/world/gen/WorldGenCustomOres.java' (3431)
+2018-04-03 22:48:29: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/world/gen/generators/WorldGenAluminiumTree.java
+2018-04-03 22:48:29: Change detected [1]: t=Modified path=/main/java/com/senpai/world/gen/generators/WorldGenCopperTree.java
+2018-04-03 22:48:29: Change detected [1]: t=Modified path=/main/java/com/senpai/world/gen/WorldGenCustomOres.java
+2018-04-03 22:48:29: Change detected [1]: t=Created path=/main/java/com/senpai/world/gen/WorldGenCustomOres.java
+2018-04-03 22:48:29: Change detected [1]: t=Created path=/main/java/com/senpai/world/gen/generators/WorldGenCopperTree.java
+2018-04-03 22:48:29: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/world/gen/WorldGenCustomOres.java
+2018-04-03 22:48:29: Change detected [0]: t=Modified path=/main/java/com/senpai/init/BlockInit.java
+2018-04-03 22:48:29: Change detected [0]: t=Modified path=/main/java/com/senpai/init/BlockInit.java
+2018-04-03 22:48:29: Change detected [0]: t=Modified path=/main/java/com/senpai/world/gen/generators/WorldGenAluminiumTree.java
+2018-04-03 22:48:29: Change detected [0]: t=Modified path=/main/java/com/senpai/world/gen/generators/WorldGenAluminiumTree.java
+2018-04-03 22:48:29: Change detected [0]: t=Modified path=/main/java/com/senpai/world/gen/generators/WorldGenCopperTree.java
+2018-04-03 22:48:29: Change detected [0]: t=Modified path=/main/java/com/senpai/world/gen/generators/WorldGenCopperTree.java
+2018-04-03 22:48:29: Change detected [0]: t=Deleted path=/main/java/com/senpai/objects/blocks/BlockSaplings.java
+2018-04-03 22:48:29: Change detected [0]: t=Created path=/main/java/com/senpai/blocks/BlockSaplings.java
+2018-04-03 22:48:29: Change detected [0]: t=Modified path=/main/java/com/senpai/blocks/BlockSaplings.java
+2018-04-03 22:48:29: Change detected [0]: t=Modified path=/main/java/com/senpai/blocks/BlockSaplings.java
+2018-04-03 22:48:29: Change detected [1]: t=Modified path=/main/java/com/senpai/blocks/BlockTeleporter.java
+2018-04-03 22:48:29: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/world/gen/generators/WorldGenCopperTree.java
+2018-04-03 22:48:30: Change detected [1]: t=Modified path=/main/java/com/senpai/blocks/BlockRicePlant.java
+2018-04-03 22:48:30: Change detected [1]: t=Created path=/main/java/com/senpai/blocks/BlockTeleporter.java
+2018-04-03 22:48:30: Change detected [1]: t=Modified path=/main/java/com/senpai/blocks/BlockPlank.java
+2018-04-03 22:48:30: Change detected [1]: t=Modified path=/main/java/com/senpai/blocks/BlockLeaf.java
+2018-04-03 22:48:30: Change detected [1]: t=Created path=/main/java/com/senpai/blocks/BlockRicePlant.java
+2018-04-03 22:48:30: Change detected [1]: t=Created path=/main/java/com/senpai/blocks/BlockPlank.java
+2018-04-03 22:48:30: Change detected [1]: t=Modified path=/main/java/com/senpai/blocks/BlockOres.java
+2018-04-03 22:48:30: Change detected [1]: t=Modified path=/main/java/com/senpai/blocks/BlockLogs.java
+2018-04-03 22:48:31: Change detected [1]: t=Created path=/main/java/com/senpai/blocks/BlockOres.java
+2018-04-03 22:48:31: Change detected [1]: t=Created path=/main/java/com/senpai/blocks/BlockLogs.java
+2018-04-03 22:48:31: Change detected [1]: t=Created path=/main/java/com/senpai/blocks/BlockLeaf.java
+2018-04-03 22:48:31: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/objects/blocks/BlockTeleporter.java
+2018-04-03 22:48:31: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/objects/blocks/BlockRicePlant.java
+2018-04-03 22:48:31: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/objects/blocks/BlockPlank.java
+2018-04-03 22:48:32: Copy Over 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/gen/generators/WorldGenAluminiumTree.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/world/gen/generators/WorldGenAluminiumTree.java' (3615)
+2018-04-03 22:48:32: Save State File S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_file_state_v4._gs
+2018-04-03 22:48:33: Save State File gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_file_state_v4._gs
+2018-04-03 22:48:34: Cleanup recycled files in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_saved_
+2018-04-03 22:48:34: Load Recycled DB: S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_recycled_db._gs
+2018-04-03 22:48:34: Cleanup old logs in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_
+2018-04-03 22:48:34: Cleanup recycled files in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_saved_
+2018-04-03 22:48:35: Save Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-03 22:48:35: Cleanup old logs in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_
+2018-04-03 22:48:35: == Sync Complete. Time: 00:00:25, Speed: 5.33 KB/s, OK: 15, Errors: 0
+2018-04-03 22:48:35: Unlocking folder S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/lock.gsl
+2018-04-03 22:48:35: Unlocking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/lock.gsl
+2018-04-03 22:48:36: Change detected [0]: t=Modified path=/main/java/com/senpai/blocks/BlockSaplings.java
+2018-04-03 22:48:36: Change detected [0]: t=Modified path=/main/java/com/senpai/world/gen/generators/WorldGenCopperTree.java
+2018-04-03 22:48:42: 

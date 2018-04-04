@@ -1,0 +1,240 @@
+2018-04-03 02:07:12: Waiting for 8 sec on verb GET: Host not found: Server name is incorrect or No connection to Internet; name=www.googleapis.com; port=443
+2018-04-03 02:07:15: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/ICriterionTrigger.java
+2018-04-03 02:07:15: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/ICriterionTrigger.java
+2018-04-03 02:07:20: Waiting for 16 sec on verb GET: Host not found: Server name is incorrect or No connection to Internet; name=www.googleapis.com; port=443
+2018-04-03 02:07:48: Waiting for 30 sec on verb GET: Host not found: Server name is incorrect or No connection to Internet; name=www.googleapis.com; port=443
+2018-04-03 02:08:19: Waiting for 30 sec on verb GET: Host not found: Server name is incorrect or No connection to Internet; name=www.googleapis.com; port=443
+2018-04-03 02:08:36: Change detected [0]: t=Created path=/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:08:36: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:08:36: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:09:13: getting new changes: changes.list: no reply after 152(120)-sec timeout: Host not found: Server name is incorrect or No connection to Internet; name=www.googleapis.com; port=443
+2018-04-03 02:09:13: File Monitoring stopped on: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application: getting new changes: changes.list: no reply after 152(120)-sec timeout: Host not found: Server name is incorrect or No connection to Internet; name=www.googleapis.com; port=443
+2018-04-03 02:09:13: File Monitoring on: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application: getting new changes: changes.list: no reply after 152(120)-sec timeout: Host not found: Server name is incorrect or No connection to Internet; name=www.googleapis.com; port=443
+2018-04-03 02:09:13: Detected Disconnect: getting new changes: changes.list: no reply after 152(120)-sec timeout: Host not found: Server name is incorrect or No connection to Internet; name=www.googleapis.com; port=443
+2018-04-03 02:09:13: Cannot Connect: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application: Host not found: Server name is incorrect or No connection to Internet; name=www.googleapis.com; port=443
+2018-04-03 02:09:14: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:09:14: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:09:30: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:09:30: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:10:16: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/CriteriaTriggers.java
+2018-04-03 02:10:16: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/CriteriaTriggers.java
+2018-04-03 02:10:22: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/CriteriaTriggers.java
+2018-04-03 02:10:39: Change detected [0]: t=Created path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:10:39: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:10:39: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:11:08: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:11:08: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:12:13: Cannot Connect: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application: Host not found: Server name is incorrect or No connection to Internet; name=www.googleapis.com; port=443
+2018-04-03 02:12:24: Change detected [0]: t=Created path=/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:12:25: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:12:25: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:12:56: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:12:56: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:13:12: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:13:12: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:14:05: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:14:05: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:14:35: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:14:35: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:15:13: Cannot Connect: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application: Host not found: Server name is incorrect or No connection to Internet; name=www.googleapis.com; port=443
+2018-04-03 02:15:23: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:15:23: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:18:25: Cannot Connect: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application: Host not found: Server name is incorrect or No connection to Internet; name=www.googleapis.com; port=443
+2018-04-03 02:21:13: Cannot Connect: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application: Host not found: Server name is incorrect or No connection to Internet; name=www.googleapis.com; port=443
+2018-04-03 02:21:19: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:21:19: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:23:06: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:23:06: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:23:22: Change detected [0]: t=Deleted path=/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:24:10: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:24:10: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:24:25: Cannot Connect: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application: Host not found: Server name is incorrect or No connection to Internet; name=www.googleapis.com; port=443
+2018-04-03 02:25:02: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/ICriterionTrigger.java
+2018-04-03 02:25:02: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/ICriterionTrigger.java
+2018-04-03 02:26:58: Change detected [0]: t=Created path=/main/java/com/senpai/advancements/Criterion.java
+2018-04-03 02:26:58: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/Criterion.java
+2018-04-03 02:26:58: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/Criterion.java
+2018-04-03 02:27:14: 
+2018-04-03 02:27:14: Detected Connect, perform Analyze
+2018-04-03 02:27:14: On File Change Monitoring started on gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application
+2018-04-03 02:27:16: Connected to S:\Documents\MinecraftModding\xcraftmod\src: S: NTFS: type=NTFS vol=Data Storage flags=3E706FF
+2018-04-03 02:27:16: Connected to gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application
+2018-04-03 02:27:16: Incremental Analyze for On File Change
+2018-04-03 02:27:16: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-04-03 02:27:16: Mod Sync: ANALYSIS started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP' (GoodSync 10.8.1.1)
+2018-04-03 02:27:16: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-03 02:27:16: Exclude Hidden, Exclude System, Exclude name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-04-03 02:27:16: Locking folder S:/Documents/MinecraftModding/xcraftmod/src for write
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionTrigger.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionTrigger.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionTrigger.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionTrigger.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionTrigger.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/CriteriaTriggers.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/CriteriaTriggers.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/CriteriaTriggers.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/Advancement.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionTrigger.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionTrigger.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/Criterion.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/Criterion.java
+2018-04-03 02:27:16: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/Criterion.java
+2018-04-03 02:27:16: Locking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application for write
+2018-04-03 02:27:19: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/Criterion.java
+2018-04-03 02:27:19: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/Criterion.java
+2018-04-03 02:27:19: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/Criterion.java
+2018-04-03 02:27:19: On disk file:///S: space required for sync is 0 bytes, you have 1.25 TB
+2018-04-03 02:27:19: On disk gdrive://www.googleapis.com space required for sync is 27.0 KB, you have 12.4 GB
+2018-04-03 02:27:19: Changes: 5, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 22066
+2018-04-03 02:27:19: Left to Right: Copy File: 5 
+2018-04-03 02:27:19: -- Analysis Complete. Time 00:20:30, Speed: 12 files/s
+2018-04-03 02:27:19: == Sync Started by On File Change, After Delay, Under Runner
+2018-04-03 02:27:19: Mod Sync: SYNC started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP'
+2018-04-03 02:27:19: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-03 02:27:19: File Systems limited number of parallel threads to 20
+2018-04-03 02:27:19: Start only 5 threads, limited by tasks to run
+2018-04-03 02:27:24: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionInstance.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/advancements/ICriterionInstance.java' (155)
+2018-04-03 02:27:24: Load Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-03 02:27:25: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/ICriterionTrigger.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/advancements/ICriterionTrigger.java' (2853)
+2018-04-03 02:27:25: Change detected [1]: t=Modified path=/main/java/com/senpai/advancements/ICriterionTrigger.java
+2018-04-03 02:27:25: Change detected [1]: t=Created path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:25: Change detected [1]: t=Created path=/main/java/com/senpai/advancements/ICriterionTrigger.java
+2018-04-03 02:27:26: Change detected [1]: t=Modified path=/main/java/com/senpai/advancements/Criterion.java
+2018-04-03 02:27:26: Change detected [1]: t=Modified path=/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:27:26: Change detected [1]: t=Created path=/main/java/com/senpai/advancements/ICriterionInstance.java
+2018-04-03 02:27:26: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/advancements/CriteriaTriggers.java
+2018-04-03 02:27:26: Change detected [1]: t=Created path=/main/java/com/senpai/advancements/Criterion.java
+2018-04-03 02:27:26: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/PlayerAdvancements.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/advancements/PlayerAdvancements.java' (16691)
+2018-04-03 02:27:27: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/Criterion.java: Source file has changed between Analyze and Sync from '[file] size=67 accu-time=2018-04-03 02:26:57 attr=Archive cktype=0' to 'size=4814 time=2018-04-03 02:27:18', noted in source file state
+2018-04-03 02:27:27: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/Criterion.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/advancements/Criterion.java' (67)
+2018-04-03 02:27:27: Copy Over 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/advancements/CriteriaTriggers.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/advancements/CriteriaTriggers.java' (4425)
+2018-04-03 02:27:27: Save State File S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_file_state_v4._gs
+2018-04-03 02:27:29: Save State File gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_file_state_v4._gs
+2018-04-03 02:27:29: Cleanup recycled files in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_saved_
+2018-04-03 02:27:29: Load Recycled DB: S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_recycled_db._gs
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-020242-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-020312-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-020339-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-020357-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-020421-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-020454-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-020613-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-020637-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-020749-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-020810-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-020837-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-020858-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-021128-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-021149-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-021949-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-022010-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-022043-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-022104-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-022149-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-022219-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-022240-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-022428-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-022449-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-022601-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-022622-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0327-022716-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Cleanup old logs in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_
+2018-04-03 02:27:29: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0327-020242-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0327-020312-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0327-020339-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0327-020421-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0327-020613-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0327-020749-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0327-020837-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0327-021128-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0327-021949-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0327-022043-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0327-022149-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0327-022219-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0327-022428-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0327-022601-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0327-022716-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:29: Cleanup recycled files in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_saved_
+2018-04-03 02:27:30: Save Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-020242-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-020312-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-020339-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-020357-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-020421-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-020454-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-020613-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-020637-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-020749-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-020810-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-020837-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-020858-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-021128-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-021149-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-021949-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-022010-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-022043-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-022104-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-022149-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-022219-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-022240-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-022428-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-022449-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-022601-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-022622-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0327-022716-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:30: Cleanup old logs in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_
+2018-04-03 02:27:31: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0327-020421-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:32: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0327-022716-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:32: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0327-020312-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:33: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0327-020837-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:34: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0327-020613-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:34: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0327-020749-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:35: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0327-022428-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:36: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0327-022601-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:36: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0327-022043-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:36: Change detected [1]: t=Modified path=/main/java/com/senpai/advancements/CriteriaTriggers.java
+2018-04-03 02:27:36: Change detected [1]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:36: Change detected [1]: t=Created path=/main/java/com/senpai/advancements/CriteriaTriggers.java
+2018-04-03 02:27:37: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:37: Change detected [0]: t=Modified path=/main/java/com/senpai/advancements/PlayerAdvancements.java
+2018-04-03 02:27:37: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0327-021128-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:38: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0327-022219-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:38: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0327-022149-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:39: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0327-020242-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:41: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0327-020339-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:42: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0327-021949-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-03 02:27:42: == Sync Complete. Time: 00:00:23, Speed: 5.80 KB/s, OK: 5, Errors: 0
+2018-04-03 02:27:42: Unlocking folder S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/lock.gsl
+2018-04-03 02:27:42: Unlocking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/lock.gsl
+2018-04-03 02:27:49: 

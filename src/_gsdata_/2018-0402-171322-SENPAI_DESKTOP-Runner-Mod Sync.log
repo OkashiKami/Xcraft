@@ -1,0 +1,50 @@
+2018-04-02 17:13:23: Connected to S:\Documents\MinecraftModding\xcraftmod\src: S: NTFS: type=NTFS vol=Data Storage flags=3E706FF
+2018-04-02 17:13:23: Connected to gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application
+2018-04-02 17:13:23: Incremental Analyze for On File Change
+2018-04-02 17:13:23: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-04-02 17:13:23: Mod Sync: ANALYSIS started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP' (GoodSync 10.8.1.1)
+2018-04-02 17:13:23: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-02 17:13:23: Exclude Hidden, Exclude System, Exclude name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-04-02 17:13:23: Locking folder S:/Documents/MinecraftModding/xcraftmod/src for write
+2018-04-02 17:13:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/container/ContainerEnergyCell.java
+2018-04-02 17:13:23: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/container/ContainerEnergyCell.java
+2018-04-02 17:13:23: Locking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application for write
+2018-04-02 17:13:25: On disk file:///S: space required for sync is 0 bytes, you have 1.25 TB
+2018-04-02 17:13:25: On disk gdrive://www.googleapis.com space required for sync is 3.00 KB, you have 12.4 GB
+2018-04-02 17:13:25: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 21957
+2018-04-02 17:13:25: Left to Right: Copy File: 1 
+2018-04-02 17:13:25: -- Analysis Complete. Time 00:00:03, Speed: 101 files/s
+2018-04-02 17:13:25: == Sync Started by On File Change, After Delay, Under Runner
+2018-04-02 17:13:25: Mod Sync: SYNC started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP'
+2018-04-02 17:13:25: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-02 17:13:26: File Systems limited number of parallel threads to 20
+2018-04-02 17:13:26: Start only 1 threads, limited by tasks to run
+2018-04-02 17:13:27: Change detected [0]: t=Modified path=/main/java/com/senpai/objects/blocks/machines/engineering/BlockEnergyStorage.java
+2018-04-02 17:13:27: Change detected [0]: t=Modified path=/main/java/com/senpai/objects/blocks/machines/engineering/BlockEnergyStorage.java
+2018-04-02 17:13:27: Change detected [0]: t=Modified path=/main/java/com/senpai/proxy/ClientProxy.java
+2018-04-02 17:13:27: Change detected [0]: t=Modified path=/main/java/com/senpai/proxy/ClientProxy.java
+2018-04-02 17:13:27: Change detected [0]: t=Modified path=/main/java/com/senpai/util/tileEntities/EnergyCell/GuiEnergyCell.java
+2018-04-02 17:13:27: Change detected [0]: t=Modified path=/main/java/com/senpai/util/tileEntities/EnergyCell/GuiEnergyCell.java
+2018-04-02 17:13:27: Change detected [0]: t=Modified path=/main/java/com/senpai/util/handlers/GuiHandler.java
+2018-04-02 17:13:27: Change detected [0]: t=Modified path=/main/java/com/senpai/util/handlers/GuiHandler.java
+2018-04-02 17:13:27: Change detected [0]: t=Deleted path=/main/java/com/senpai/util/tileEntities/EnergyCell/TileEntityEnergyCell.java
+2018-04-02 17:13:27: Change detected [0]: t=Created path=/main/java/com/senpai/tileEntity/render/TileEntityEnergyCell.java
+2018-04-02 17:13:27: Change detected [0]: t=Modified path=/main/java/com/senpai/tileEntity/render/TileEntityEnergyCell.java
+2018-04-02 17:13:27: Change detected [0]: t=Modified path=/main/java/com/senpai/tileEntity/render/TileEntityEnergyCell.java
+2018-04-02 17:13:28: Load Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-02 17:13:29: Copy Over 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/container/ContainerEnergyCell.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/container/ContainerEnergyCell.java' (2777)
+2018-04-02 17:13:29: Save State File S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_file_state_v4._gs
+2018-04-02 17:13:31: Save State File gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_file_state_v4._gs
+2018-04-02 17:13:31: Cleanup recycled files in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_saved_
+2018-04-02 17:13:31: Load Recycled DB: S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_recycled_db._gs
+2018-04-02 17:13:31: Cleanup old logs in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_
+2018-04-02 17:13:31: Cleanup recycled files in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_saved_
+2018-04-02 17:13:32: Save Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-02 17:13:32: Cleanup old logs in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_
+2018-04-02 17:13:32: == Sync Complete. Time: 00:00:07, Speed: 1.12 KB/s, OK: 1, Errors: 0
+2018-04-02 17:13:32: Unlocking folder S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/lock.gsl
+2018-04-02 17:13:32: Unlocking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/lock.gsl
+2018-04-02 17:13:33: Change detected [1]: t=Modified path=/main/java/com/senpai/container/ContainerEnergyCell.java
+2018-04-02 17:13:33: Change detected [1]: t=Created path=/main/java/com/senpai/container/ContainerEnergyCell.java
+2018-04-02 17:13:33: Change detected [1]: t=MovedFrom path=/main/java/com/senpai/container/ContainerEnergyCell.java
+2018-04-02 17:13:34: 

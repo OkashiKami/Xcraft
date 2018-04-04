@@ -1,0 +1,44 @@
+2018-04-02 21:53:35: Change detected [0]: t=Created path=/main/java/com/senpai/world/dimension/foz
+2018-04-02 21:53:36: Connected to S:\Documents\MinecraftModding\xcraftmod\src: S: NTFS: type=NTFS vol=Data Storage flags=3E706FF
+2018-04-02 21:53:36: Connected to gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application
+2018-04-02 21:53:36: Incremental Analyze for On File Change
+2018-04-02 21:53:37: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-04-02 21:53:37: Mod Sync: ANALYSIS started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP' (GoodSync 10.8.1.1)
+2018-04-02 21:53:37: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-02 21:53:37: Exclude Hidden, Exclude System, Exclude name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-04-02 21:53:37: Locking folder S:/Documents/MinecraftModding/xcraftmod/src for write
+2018-04-02 21:53:37: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/dimension/foz
+2018-04-02 21:53:37: Scan Newly Added Folder: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/world/dimension/foz
+2018-04-02 21:53:37: Locking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application for write
+2018-04-02 21:53:38: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/BlockMachine.java
+2018-04-02 21:53:38: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/BlockMachine.java
+2018-04-02 21:53:39: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/BlockMachine.java
+2018-04-02 21:53:39: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/world/dimention
+2018-04-02 21:53:39: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/world/dimension
+2018-04-02 21:53:39: On disk file:///S: space required for sync is 0 bytes, you have 1.25 TB
+2018-04-02 21:53:39: On disk gdrive://www.googleapis.com space required for sync is 0 bytes, you have 12.4 GB
+2018-04-02 21:53:39: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 22043
+2018-04-02 21:53:39: Left to Right: Copy File: 1 
+2018-04-02 21:53:39: -- Analysis Complete. Time 00:00:04, Speed: 93 files/s
+2018-04-02 21:53:39: == Sync Started by On File Change, After Delay, Under Runner
+2018-04-02 21:53:39: Mod Sync: SYNC started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP'
+2018-04-02 21:53:39: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-02 21:53:40: Create Folder 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/world/dimension/foz'
+2018-04-02 21:53:40: File Systems limited number of parallel threads to 20
+2018-04-02 21:53:40: Start only 0 threads, limited by tasks to run
+2018-04-02 21:53:41: Save State File S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_file_state_v4._gs
+2018-04-02 21:53:42: Save State File gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_file_state_v4._gs
+2018-04-02 21:53:42: Cleanup recycled files in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_saved_
+2018-04-02 21:53:42: Load Recycled DB: S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_recycled_db._gs
+2018-04-02 21:53:42: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0326-215321-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-02 21:53:42: Cleanup old logs in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_
+2018-04-02 21:53:42: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0326-215321-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-02 21:53:42: Cleanup recycled files in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_saved_
+2018-04-02 21:53:44: Load Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-02 21:53:44: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0326-215321-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-02 21:53:44: Cleanup old logs in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_
+2018-04-02 21:53:45: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0326-215321-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-02 21:53:45: == Sync Complete. Time: 00:00:06, Speed: 0 bytes/s, OK: 1, Errors: 0
+2018-04-02 21:53:45: Unlocking folder S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/lock.gsl
+2018-04-02 21:53:45: Unlocking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/lock.gsl
+2018-04-02 21:53:46: 

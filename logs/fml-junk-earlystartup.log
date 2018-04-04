@@ -1,0 +1,9 @@
+[00:13:54] [main/INFO] [GradleStart]: username: SinpaiKun
+[00:13:54] [main/INFO] [GradleStart]: Extra: []
+[00:13:54] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Senpai/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --username, SinpaiKun, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[00:13:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[00:13:55] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[00:13:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[00:13:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[00:14:07] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 117567263 nanos
+[00:14:08] [Forge Version Check/INFO] [ForgeVersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json

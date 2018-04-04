@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "sxm:tin_block" },
+		"half=bottom": { "model": "sxm:tin_block" }
+    }
+}

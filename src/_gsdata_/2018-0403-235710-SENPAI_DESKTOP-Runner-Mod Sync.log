@@ -1,0 +1,61 @@
+2018-04-03 23:57:11: Connected to S:\Documents\MinecraftModding\xcraftmod\src: S: NTFS: type=NTFS vol=Data Storage flags=3E706FF
+2018-04-03 23:57:11: Connected to gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application
+2018-04-03 23:57:11: Incremental Analyze for On File Change
+2018-04-03 23:57:12: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-04-03 23:57:12: Mod Sync: ANALYSIS started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP' (GoodSync 10.8.1.1)
+2018-04-03 23:57:12: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-03 23:57:12: Exclude Hidden, Exclude System, Exclude name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-04-03 23:57:12: Locking folder S:/Documents/MinecraftModding/xcraftmod/src for write
+2018-04-03 23:57:12: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockBreaker.java
+2018-04-03 23:57:12: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockBreaker.java
+2018-04-03 23:57:12: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockBreaker.java
+2018-04-03 23:57:12: Locking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application for write
+2018-04-03 23:57:13: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockLeaf.java
+2018-04-03 23:57:13: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockDirts.java
+2018-04-03 23:57:14: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockDirts.java
+2018-04-03 23:57:14: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/item
+2018-04-03 23:57:14: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/item/ItemBlockVariants.java
+2018-04-03 23:57:14: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/objects/blocks/item/ItemBlockMeta.java
+2018-04-03 23:57:14: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockOres.java
+2018-04-03 23:57:14: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockSaplings.java
+2018-04-03 23:57:14: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/items/ItemBlockVariants.java
+2018-04-03 23:57:14: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockLogs.java
+2018-04-03 23:57:14: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockPlank.java
+2018-04-03 23:57:15: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockSaplings.java
+2018-04-03 23:57:15: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockLogs.java
+2018-04-03 23:57:15: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockPlank.java
+2018-04-03 23:57:15: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/items/ItemBlockMeta.java
+2018-04-03 23:57:15: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockOres.java
+2018-04-03 23:57:15: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockSaplings.java
+2018-04-03 23:57:16: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/items/ItemBlockMeta.java
+2018-04-03 23:57:16: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockPlank.java
+2018-04-03 23:57:16: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockLeaf.java
+2018-04-03 23:57:16: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockOres.java
+2018-04-03 23:57:16: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockLeaf.java
+2018-04-03 23:57:16: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockDirts.java
+2018-04-03 23:57:17: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockLogs.java
+2018-04-03 23:57:17: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/items/ItemBlockVariants.java
+2018-04-03 23:57:20: On disk file:///S: space required for sync is 0 bytes, you have 1.25 TB
+2018-04-03 23:57:20: On disk gdrive://www.googleapis.com space required for sync is 7.00 KB, you have 12.4 GB
+2018-04-03 23:57:21: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 22146
+2018-04-03 23:57:21: Left to Right: Copy File: 1 
+2018-04-03 23:57:21: -- Analysis Complete. Time 00:00:10, Speed: 42 files/s
+2018-04-03 23:57:21: == Sync Started by On File Change, After Delay, Under Runner
+2018-04-03 23:57:21: Mod Sync: SYNC started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP'
+2018-04-03 23:57:21: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-03 23:57:21: File Systems limited number of parallel threads to 20
+2018-04-03 23:57:21: Start only 1 threads, limited by tasks to run
+2018-04-03 23:57:24: Load Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-03 23:57:25: Copy Over 'S:/Documents/MinecraftModding/xcraftmod/src/main/java/com/senpai/blocks/BlockBreaker.java' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/java/com/senpai/blocks/BlockBreaker.java' (6811)
+2018-04-03 23:57:26: Save State File S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_file_state_v4._gs
+2018-04-03 23:57:27: Save State File gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_file_state_v4._gs
+2018-04-03 23:57:27: Cleanup recycled files in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_saved_
+2018-04-03 23:57:27: Load Recycled DB: S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_recycled_db._gs
+2018-04-03 23:57:27: Cleanup old logs in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_
+2018-04-03 23:57:27: Cleanup recycled files in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_saved_
+2018-04-03 23:57:28: Save Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-03 23:57:28: Cleanup old logs in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_
+2018-04-03 23:57:28: == Sync Complete. Time: 00:00:07, Speed: 2.10 KB/s, OK: 1, Errors: 0
+2018-04-03 23:57:28: Unlocking folder S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/lock.gsl
+2018-04-03 23:57:28: Unlocking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/lock.gsl
+2018-04-03 23:57:30: 

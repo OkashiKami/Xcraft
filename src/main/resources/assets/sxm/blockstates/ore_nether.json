@@ -1,0 +1,8 @@
+{
+    "variants":
+    {
+        "variant=aluminium": { "model": "sxm:ore_nether_aluminium" },
+        "variant=copper": { "model": "sxm:ore_nether_copper" },
+        "variant=tin": { "model": "sxm:ore_nether_tin" }
+    }
+}

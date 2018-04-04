@@ -1,0 +1,143 @@
+itemGroup.tutorialtab=Xcraft
+
+container.sintering_furnace=Sintering Furnace
+container.reactor_engine=Reactor Engine
+
+generator.Copper=Copper
+generator.Custom=Custom Biomes
+
+item.sxm.xcraft_handbook.name=Xcraft Handbook
+
+item.sxm.wrench.name=Xcraft Wrench
+
+entity.centaur.name=Centaur
+entity.arion.name=Arion
+
+item.sxm.ingot_copper.name=Copper Ingot
+item.sxm.axe_copper.name=Copper Axe
+item.sxm.hoe_copper.name=Copper Hoe
+item.sxm.pickaxe_copper.name=Copper Pickaxe
+item.sxm.shovel_copper.name=Copper Shovel
+item.sxm.sword_copper.name=Copper Sword
+item.sxm.helmet_copper.name=Copper Helmet
+item.sxm.chestplate_copper.name=Copper Chestplate
+item.sxm.leggings_copper.name=Copper Leggings
+item.sxm.boots_copper.name=Copper Boots
+
+item.sxm.rice_bowl.name=Bowl of Rice
+item.sxm.rice.name=Rice
+tile.sxm.rice_plant.name=Rice Plant
+
+tile.sxm.block_copper.name=Copper Block
+tile.sxm.ore_overworld_aluminium.name=Aluminium Ore
+tile.sxm.ore_overworld_copper.name=Copper Ore
+tile.sxm.ore_end_aluminium.name=Ender Aluminium Ore
+tile.sxm.ore_end_copper.name=Ender Copper Ore
+tile.sxm.ore_nether_aluminium.name=Fiery Aluminium Ore
+tile.sxm.ore_nether_copper.name=Fiery Copper Ore
+tile.sxm.dirt_aluminium.name=Aluminium Dirt 
+tile.sxm.planks_aluminium.name=Aluminium Planks
+tile.sxm.log_aluminium.name=Aluminium Log
+tile.sxm.leaves_aluminium.name=Aluminium Leaves
+tile.sxm.sapling_aluminium.name=Aluminium Sapling
+tile.sxm.dirt_copper.name=Copper Dirt
+tile.sxm.planks_copper.name=Copper Planks
+tile.sxm.log_copper.name=Copper Log
+tile.sxm.leaves_copper.name=Copper Leaves
+tile.sxm.sapling_copper.name=Copper Sapling
+tile.sxm.sapling_aluminium.name=Aluminium Sapling
+tile.sxm.santa_hat.name=Santa Hat
+tile.sxm.sintering_furnace.name=Sintering Furnace
+
+tile.sxm.reactor_engine.name=Reactor Engine
+tile.sxm.reactor_core.name=Reactor Core
+tile.sxm.reactor_coolant.name=Reactor Coolant
+
+tile.sxm.pipe.name=Pipe
+tile.sxm.block_teleporter.name=Teleporter
+
+tile.sxm.block_beacon.name=Beacon Box
+
+
+tile.sxm.ore_end_tin.name=Ender Tin Ore
+tile.sxm.ore_overworld_tin.name=Tin Ore
+tile.sxm.ore_nether_tin.name=Fiery Tin Ore
+
+tile.tin_block.name=Block of Tin
+tile.tin_slab_half.name=Tin Slab
+tile.tin_stairs.name=Tin Stairs
+tile.tin_fence.name=Tin Fence
+tile.tin_fence_gate.name=Tin Fence Gate
+tile.block_breaker.basic.name=Block Breaker (Basic)
+tile.block_breaker.advanced.name=Block Breaker (Advanced)
+tile.gamemode_detector.name=Gamemode Detector
+tile.machine_frame.basic.name=Machine Frame (Basic)
+tile.machine_frame.advanced.name=Machine Frame (Advanced)
+tile.tin_button.name=Tin Button
+tile.tin_pressure_plate.name=Tin Pressure Plate
+tile.tin_door.name=Tin Door
+
+item.tin_ingot.name=Tin Ingot
+item.tin_nugget.name=Tin Nugget
+item.tin_pickaxe.name=Tin Pickaxe
+item.tin_axe.name=Tin Axe
+item.tin_hoe.name=Tin Hoe
+item.tin_shovel.name=Tin Shovel
+item.tin_sword.name=Tin Sword
+
+item.heart.name=Heart
+item.soul_stealer.name=Soul Stealer
+
+item.tin_apple.name=Tin Apple
+item.nice_biscuit.name=Nice Biscuit
+
+item.infinity_flame.name=Infinity Flame
+
+item.tin_helmet.name=Tin Helmet
+item.tin_chestplate.name=Tin Chestplate
+item.tin_leggings.name=Tin Leggings
+item.tin_boots.name=Tin Boots
+item.tin_stick.name=Tin Stick
+
+item.chip.basic.name=Basic Chip
+item.chip.advanced.name=Advanced Chip
+
+item.paint_brush.name=Paint Brush
+item.paint_brush.tooltip=Color: %s
+tile.canvas.name=Canvas
+tile.canvas.tooltip=Color: %s
+item.fabric.name=Fabric
+
+item.cotton.name=Cotton
+tile.cotton.name=Cotton
+
+tile.energy_cell.basic.name=Energy Cell (Basic)
+tile.energy_cell.advanced.name=Energy Cell (Advanced)
+
+itemGroup.boeblocks=BitOfEverything Blocks
+itemGroup.boeitems=BitOfEverything Items
+
+boe.heart.tooltip=Heals the player
+boe.soul_stealer.tooltip=Steals the hearts of entities
+
+achievement.tinman=Tin Man
+achievement.tinman.desc=Wear all tin armour
+
+container.block_breaker=Block Breaker
+
+gui.block_breaker.enchanted_book.tooltip=Enchanted book goes here
+
+block.tin_fence_gate.open=Tin Fence Gate Opened
+block.tin_fence_gate.close=Tin Fence Gate Closed
+block.tin_button.click_on=Tin Button Clicked
+block.tin_button.click_off=Tin Button Released
+
+gui.config.main_title=BitOfEverything Configuration
+gui.config.category.blocks=Blocks
+gui.config.category.blocks.tooltip=All block settings
+gui.config.blocks.machine_cooldown_basic.name=Basic Machine Cooldown
+gui.config.blocks.machine_cooldown_basic.comment=The cooldown for the basic tier of machine
+gui.config.blocks.machine_cooldown_advanced.name=Advanced Machine Cooldown
+gui.config.blocks.machine_cooldown_advanced.comment=The cooldown for the advanced tier of machine
+
+

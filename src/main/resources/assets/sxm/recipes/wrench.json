@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I",
+        "I",
+        "G"      
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_bars",
+            "data": 0
+        },
+        "G":
+        {
+            "item": "minecraft:gold_block",
+            "data": 0
+        }
+    },
+    
+    "result":
+    {
+        "item": "sxm:wrench",
+        "count": 1
+    }
+}

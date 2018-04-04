@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"      
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "sxm:block_copper"
+        }
+    },
+    
+    "result":
+    {
+        "item": "sxm:ingot_copper",
+        "count": 9
+    }
+}

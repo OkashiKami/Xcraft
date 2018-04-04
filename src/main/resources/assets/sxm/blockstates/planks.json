@@ -1,0 +1,7 @@
+{
+    "variants": 
+    {
+        "variant=copper": { "model": "sxm:planks_copper" },
+        "variant=aluminium": { "model": "sxm:planks_aluminium" }
+    }
+}

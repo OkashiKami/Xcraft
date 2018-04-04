@@ -1,0 +1,8 @@
+{
+	"parent": "sxm:block/machine",
+	"textures": {
+		"side": "sxm:blocks/block_breaker_side_basic",
+		"front": "sxm:blocks/block_breaker_front_basic_activated",
+		"alt": "sxm:blocks/machine_basic"
+	}
+}

@@ -1,0 +1,700 @@
+2018-04-04 01:40:52: Connected to S:\Documents\MinecraftModding\xcraftmod\src: S: NTFS: type=NTFS vol=Data Storage flags=3E706FF
+2018-04-04 01:40:53: Connected to gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application
+2018-04-04 01:40:53: Incremental Analyze for On File Change
+2018-04-04 01:40:53: -- Analysis Started by On File Change, After Delay, Under Runner
+2018-04-04 01:40:53: Mod Sync: ANALYSIS started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP' (GoodSync 10.8.1.1)
+2018-04-04 01:40:53: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-04 01:40:53: Exclude Hidden, Exclude System, Exclude name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+2018-04-04 01:40:53: Locking folder S:/Documents/MinecraftModding/xcraftmod/src for write
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/textures/items/cotton.png
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block
+2018-04-04 01:40:53: Scan Newly Added Folder: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_button
+2018-04-04 01:40:53: Scan Newly Added Folder: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_button/click_off.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_button/click_off.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_button/click_off.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_button/click_off.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_button/click_on.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_button/click_on.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_button/click_on.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_button/click_on.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_fence_gate
+2018-04-04 01:40:53: Scan Newly Added Folder: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_fence_gate/close.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_fence_gate/close.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_fence_gate/close.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_fence_gate/close.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_fence_gate/open.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_fence_gate/open.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_fence_gate/open.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_fence_gate/open.ogg
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_advanced.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_advanced.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_advanced.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_advanced_activated.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_advanced_activated.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_advanced_activated.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_basic.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_basic.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_basic.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_basic_activated.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_basic_activated.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_basic_activated.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/canvas.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/canvas.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/canvas.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage0.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage0.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage0.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage1.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage1.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage1.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage2.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage2.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage2.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage3.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage3.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage3.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage4.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage4.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage4.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage5.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage5.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage5.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage6.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage6.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage6.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage7.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage7.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage7.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/gamemode_detector.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/gamemode_detector.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/gamemode_detector.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/machine.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/machine.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/machine.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/machine_frame_advanced.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/machine_frame_advanced.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/machine_frame_advanced.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/machine_frame_basic.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/machine_frame_basic.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/machine_frame_basic.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_block.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_block.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_block.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_button.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_button.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_button.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_button_inventory.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_button_inventory.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_button_inventory.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_button_pressed.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_button_pressed.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_button_pressed.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_bottom.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_bottom.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_bottom.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_bottom_rh.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_bottom_rh.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_bottom_rh.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_top.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_top.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_top.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_top_rh.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_top_rh.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_top_rh.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_gate_closed.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_gate_closed.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_gate_closed.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_gate_open.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_gate_open.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_gate_open.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_post.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_post.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_post.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_side.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_side.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_side.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_inner_stairs.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_inner_stairs.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_inner_stairs.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore_end.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore_end.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore_end.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore_nether.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore_nether.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore_nether.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore_overworld.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore_overworld.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore_overworld.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_outer_stairs.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_outer_stairs.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_outer_stairs.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_pressure_plate_down.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_pressure_plate_down.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_pressure_plate_down.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_pressure_plate_up.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_pressure_plate_up.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_pressure_plate_up.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_slab_bottom.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_slab_bottom.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_slab_bottom.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_slab_top.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_slab_top.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_slab_top.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_stairs.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_stairs.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_stairs.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_wall_gate_closed.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_wall_gate_closed.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_wall_gate_closed.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_wall_gate_open.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_wall_gate_open.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_wall_gate_open.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/ctm
+2018-04-04 01:40:53: Scan Newly Added Folder: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/ctm
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/ctm/canvas.cf
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/ctm/canvas.cf
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/ctm/canvas.cf
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/ctm/machine_advanced.cf
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/ctm/machine_advanced.cf
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/ctm/machine_advanced.cf
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/ctm/machine_basic.cf
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/ctm/machine_basic.cf
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/ctm/machine_basic.cf
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/block_breaker_advanced.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/block_breaker_advanced.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/block_breaker_advanced.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/block_breaker_basic.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/block_breaker_basic.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/block_breaker_basic.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/canvas.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/canvas.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/canvas.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/chip_advanced.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/chip_advanced.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/chip_advanced.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/chip_basic.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/chip_basic.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/chip_basic.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/cotton.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/cotton.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/cotton.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/fabric.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/fabric.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/fabric.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/gamemode_detector.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/gamemode_detector.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/gamemode_detector.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/heart.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/heart.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/heart.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/infinity_flame.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/infinity_flame.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/infinity_flame.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/machine_frame_advanced.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/machine_frame_advanced.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/machine_frame_advanced.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/machine_frame_basic.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/machine_frame_basic.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/machine_frame_basic.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/nice_biscuit.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/nice_biscuit.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/nice_biscuit.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/paint_brush.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/paint_brush.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/paint_brush.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/soul_stealer.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/soul_stealer.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/soul_stealer.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_apple.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_apple.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_apple.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_axe.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_axe.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_axe.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_block.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_block.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_block.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_boots.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_boots.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_boots.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_button.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_button.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_button.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_chestplate.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_chestplate.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_chestplate.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_door.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_door.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_door.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_fence.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_fence.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_fence.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_fence_gate.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_fence_gate.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_fence_gate.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_helmet.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_helmet.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_helmet.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_hoe.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_hoe.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_hoe.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ingot.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ingot.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ingot.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_leggings.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_leggings.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_leggings.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_nugget.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_nugget.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_nugget.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore_end.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore_end.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore_end.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore_nether.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore_nether.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore_nether.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore_overworld.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore_overworld.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore_overworld.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_pickaxe.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_pickaxe.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_pickaxe.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_pressure_plate.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_pressure_plate.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_pressure_plate.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_shovel.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_shovel.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_shovel.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_slab_half.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_slab_half.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_slab_half.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_stairs.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_stairs.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_stairs.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_stick.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_stick.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_stick.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_sword.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_sword.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_sword.json
+2018-04-04 01:40:53: Change Analyzed: S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_fence_gate/close.ogg
+2018-04-04 01:40:53: Locking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application for write
+2018-04-04 01:40:55: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/nice_biscuit.png
+2018-04-04 01:40:56: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/paint_brush_0.png
+2018-04-04 01:40:56: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/paint_brush_1.png
+2018-04-04 01:40:56: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/fabric.png
+2018-04-04 01:40:57: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/fabric.png
+2018-04-04 01:40:57: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/infinity_flame.png
+2018-04-04 01:40:57: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/heart.png
+2018-04-04 01:40:57: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/cotton.png
+2018-04-04 01:40:57: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/infinity_flame.png
+2018-04-04 01:40:57: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/door_tin.png
+2018-04-04 01:40:57: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/heart.png
+2018-04-04 01:40:58: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/door_tin.png
+2018-04-04 01:40:58: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/chip_advanced.png
+2018-04-04 01:40:58: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/cotton.png
+2018-04-04 01:40:58: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/chip_basic.png
+2018-04-04 01:40:58: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/chip_basic.png
+2018-04-04 01:40:58: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/chip_advanced.png
+2018-04-04 01:40:58: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_shovel.png
+2018-04-04 01:40:58: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_stick.png
+2018-04-04 01:40:58: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_sword.png
+2018-04-04 01:40:58: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/models/armor/tin_layer_2.png
+2018-04-04 01:40:59: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/models/armor/tin_layer_1.png
+2018-04-04 01:40:59: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/models/armor/tin_layer_2.png
+2018-04-04 01:40:59: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_nugget.png
+2018-04-04 01:40:59: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_sword.png
+2018-04-04 01:40:59: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_stick.png
+2018-04-04 01:40:59: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/models/armor/tin_layer_1.png
+2018-04-04 01:40:59: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_pickaxe.png
+2018-04-04 01:40:59: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_shovel.png
+2018-04-04 01:40:59: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_leggings.png
+2018-04-04 01:41:00: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_nugget.png
+2018-04-04 01:41:00: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_pickaxe.png
+2018-04-04 01:41:00: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_leggings.png
+2018-04-04 01:41:00: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_axe.png
+2018-04-04 01:41:00: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/nice_biscuit.png
+2018-04-04 01:41:00: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_boots.png
+2018-04-04 01:41:00: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_ingot.png
+2018-04-04 01:41:00: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_hoe.png
+2018-04-04 01:41:01: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_ingot.png
+2018-04-04 01:41:01: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_helmet.png
+2018-04-04 01:41:01: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_hoe.png
+2018-04-04 01:41:01: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/soul_stealer.png
+2018-04-04 01:41:01: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_apple.png
+2018-04-04 01:41:01: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_helmet.png
+2018-04-04 01:41:01: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_chestplate.png
+2018-04-04 01:41:01: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_chestplate.png
+2018-04-04 01:41:01: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/paint_brush_1.png
+2018-04-04 01:41:02: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/soul_stealer.png
+2018-04-04 01:41:02: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_apple.png
+2018-04-04 01:41:02: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_boots.png
+2018-04-04 01:41:02: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/paint_brush_0.png
+2018-04-04 01:41:02: Change Analyzed: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/textures/items/tin_axe.png
+2018-04-04 01:41:03: On disk file:///S: space required for sync is 0 bytes, you have 1.25 TB
+2018-04-04 01:41:03: On disk gdrive://www.googleapis.com space required for sync is 158 KB, you have 12.4 GB
+2018-04-04 01:41:03: Changes: 94, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 22321
+2018-04-04 01:41:03: Left to Right: Copy File: 94 
+2018-04-04 01:41:03: -- Analysis Complete. Time 00:00:12, Speed: 44 files/s
+2018-04-04 01:41:03: == Sync Started by On File Change, After Delay, Under Runner
+2018-04-04 01:41:03: Mod Sync: SYNC started by On File Change, After Delay, Under Runner on 'SENPAI_DESKTOP'
+2018-04-04 01:41:03: =Data Storage:\Documents\MinecraftModding\xcraftmod\src (S:/Documents/MinecraftModding/xcraftmod/src) [TmpDest] <-> gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, SyncWorkerThreads=99, OnFileChange Delay=5, Unattended, WaitForLocksMin=20, ResolveConflicts=NewerFileWins, AutoClear, LinksIgnore
+2018-04-04 01:41:04: Create Folder 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/ctm'
+2018-04-04 01:41:04: Create Folder 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/sounds/block'
+2018-04-04 01:41:05: Create Folder 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/sounds/block/tin_button'
+2018-04-04 01:41:06: Create Folder 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/sounds/block/tin_fence_gate'
+2018-04-04 01:41:06: File Systems limited number of parallel threads to 20
+2018-04-04 01:41:08: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_advanced.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/block_breaker_advanced.json' (198)
+2018-04-04 01:41:09: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_basic.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/block_breaker_basic.json' (189)
+2018-04-04 01:41:09: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_advanced_activated.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/block_breaker_advanced_activated.json' (208)
+2018-04-04 01:41:10: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/block_breaker_basic_activated.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/block_breaker_basic_activated.json' (199)
+2018-04-04 01:41:11: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/canvas.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/canvas.json' (826)
+2018-04-04 01:41:11: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage0.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/cotton_stage0.json' (100)
+2018-04-04 01:41:12: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage1.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/cotton_stage1.json' (100)
+2018-04-04 01:41:13: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage5.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/cotton_stage5.json' (100)
+2018-04-04 01:41:13: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage7.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/cotton_stage7.json' (100)
+2018-04-04 01:41:13: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/ctm/canvas.cf
+2018-04-04 01:41:14: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/cotton_stage7.json
+2018-04-04 01:41:14: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/cotton_stage4.json
+2018-04-04 01:41:14: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/cotton_stage5.json
+2018-04-04 01:41:14: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/cotton_stage6.json
+2018-04-04 01:41:14: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/cotton_stage7.json
+2018-04-04 01:41:14: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/cotton_stage3.json
+2018-04-04 01:41:14: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/cotton_stage4.json
+2018-04-04 01:41:15: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/cotton_stage5.json
+2018-04-04 01:41:15: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/cotton_stage3.json
+2018-04-04 01:41:15: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/canvas.json
+2018-04-04 01:41:15: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/cotton_stage2.json
+2018-04-04 01:41:15: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/cotton_stage1.json
+2018-04-04 01:41:15: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/cotton_stage0.json
+2018-04-04 01:41:15: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/cotton_stage2.json
+2018-04-04 01:41:15: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/cotton_stage0.json
+2018-04-04 01:41:16: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/canvas.json
+2018-04-04 01:41:16: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/cotton_stage1.json
+2018-04-04 01:41:16: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/block_breaker_basic.json
+2018-04-04 01:41:16: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/block_breaker_basic_activated.json
+2018-04-04 01:41:16: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/block_breaker_basic_activated.json
+2018-04-04 01:41:16: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/block_breaker_basic.json
+2018-04-04 01:41:16: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/block_breaker_advanced_activated.json
+2018-04-04 01:41:17: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/block_breaker_advanced_activated.json
+2018-04-04 01:41:17: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/block_breaker_advanced.json
+2018-04-04 01:41:17: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/block_breaker_advanced.json
+2018-04-04 01:41:17: Change detected [1]: t=Created path=/main/resources/assets/sxm/sounds/block/tin_fence_gate
+2018-04-04 01:41:17: Change detected [1]: t=Created path=/main/resources/assets/sxm/sounds/block/tin_button
+2018-04-04 01:41:17: Change detected [1]: t=Created path=/main/resources/assets/sxm/sounds/block
+2018-04-04 01:41:17: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/ctm
+2018-04-04 01:41:21: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/gamemode_detector.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/gamemode_detector.json' (90)
+2018-04-04 01:41:22: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage4.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/cotton_stage4.json' (100)
+2018-04-04 01:41:22: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage6.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/cotton_stage6.json' (100)
+2018-04-04 01:41:23: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/ctm/canvas.cf' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/ctm/canvas.cf' (44)
+2018-04-04 01:41:24: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/ctm/machine_advanced.cf' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/ctm/machine_advanced.cf' (54)
+2018-04-04 01:41:24: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/machine.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/machine.json' (181)
+2018-04-04 01:41:25: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage3.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/cotton_stage3.json' (100)
+2018-04-04 01:41:25: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/ctm/machine_basic.cf' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/ctm/machine_basic.cf' (51)
+2018-04-04 01:41:26: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/cotton_stage2.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/cotton_stage2.json' (100)
+2018-04-04 01:41:26: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_button_pressed.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_button_pressed.json' (108)
+2018-04-04 01:41:26: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/machine_frame_advanced.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/machine_frame_advanced.json' (175)
+2018-04-04 01:41:26: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_button_inventory.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_button_inventory.json' (110)
+2018-04-04 01:41:27: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/machine_frame_basic.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/machine_frame_basic.json' (169)
+2018-04-04 01:41:27: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_top.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_door_top.json' (150)
+2018-04-04 01:41:28: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_button.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_button.json' (100)
+2018-04-04 01:41:29: Change detected [0]: t=Created path=/main/resources/assets/sxm/blockstates/canvas.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/canvas.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/canvas.json
+2018-04-04 01:41:29: Change detected [0]: t=Created path=/main/resources/assets/sxm/blockstates/cotton.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/cotton.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/cotton.json
+2018-04-04 01:41:29: Change detected [0]: t=Created path=/main/resources/assets/sxm/blockstates/gamemode_detector.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/gamemode_detector.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/gamemode_detector.json
+2018-04-04 01:41:29: Change detected [0]: t=Created path=/main/resources/assets/sxm/blockstates/machine_frame.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/machine_frame.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/machine_frame.json
+2018-04-04 01:41:29: Change detected [0]: t=Created path=/main/resources/assets/sxm/blockstates/tin_block.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_block.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_block.json
+2018-04-04 01:41:29: Change detected [0]: t=Created path=/main/resources/assets/sxm/blockstates/tin_button.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_button.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_button.json
+2018-04-04 01:41:29: Change detected [0]: t=Created path=/main/resources/assets/sxm/blockstates/tin_door.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_door.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_door.json
+2018-04-04 01:41:29: Change detected [0]: t=Created path=/main/resources/assets/sxm/blockstates/tin_fence.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_fence.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_fence.json
+2018-04-04 01:41:29: Change detected [0]: t=Created path=/main/resources/assets/sxm/blockstates/tin_fence_gate.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_fence_gate.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_fence_gate.json
+2018-04-04 01:41:29: Change detected [0]: t=Created path=/main/resources/assets/sxm/blockstates/tin_ore.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_ore.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_ore.json
+2018-04-04 01:41:29: Change detected [0]: t=Created path=/main/resources/assets/sxm/blockstates/tin_pressure_plate.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_pressure_plate.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_pressure_plate.json
+2018-04-04 01:41:29: Change detected [0]: t=Created path=/main/resources/assets/sxm/blockstates/tin_slab_double.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_slab_double.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_slab_double.json
+2018-04-04 01:41:29: Change detected [0]: t=Created path=/main/resources/assets/sxm/blockstates/tin_slab_half.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_slab_half.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_slab_half.json
+2018-04-04 01:41:29: Change detected [0]: t=Created path=/main/resources/assets/sxm/blockstates/tin_stairs.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_stairs.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_stairs.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_stairs.json
+2018-04-04 01:41:29: Change detected [0]: t=Created path=/main/resources/assets/sxm/blockstates/block_breaker.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/block_breaker.json
+2018-04-04 01:41:29: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/block_breaker.json
+2018-04-04 01:41:29: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_side.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_fence_side.json' (104)
+2018-04-04 01:41:29: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_inner_stairs.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_inner_stairs.json' (184)
+2018-04-04 01:41:30: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_post.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_fence_post.json' (104)
+2018-04-04 01:41:30: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_bottom_rh.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_door_bottom_rh.json' (156)
+2018-04-04 01:41:30: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_gate_closed.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_fence_gate_closed.json' (108)
+2018-04-04 01:41:31: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_ore.json' (80)
+2018-04-04 01:41:33: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_outer_stairs.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_outer_stairs.json' (184)
+2018-04-04 01:41:33: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_slab_bottom.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_slab_bottom.json' (180)
+2018-04-04 01:41:34: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_stairs.json
+2018-04-04 01:41:34: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_slab_bottom.json
+2018-04-04 01:41:34: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_slab_top.json
+2018-04-04 01:41:34: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_ore_end.json
+2018-04-04 01:41:35: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_outer_stairs.json
+2018-04-04 01:41:35: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_slab_bottom.json
+2018-04-04 01:41:35: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_pressure_plate_up.json
+2018-04-04 01:41:35: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_pressure_plate_down.json
+2018-04-04 01:41:36: Change detected [0]: t=Modified path=/main/resources/assets/sxm/blockstates/tin_stairs.json
+2018-04-04 01:41:36: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_pressure_plate_up.json
+2018-04-04 01:41:36: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_outer_stairs.json
+2018-04-04 01:41:36: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_ore_overworld.json
+2018-04-04 01:41:36: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_ore_nether.json
+2018-04-04 01:41:37: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_ore_end.json
+2018-04-04 01:41:37: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_ore.json
+2018-04-04 01:41:37: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_inner_stairs.json
+2018-04-04 01:41:37: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_door_top_rh.json
+2018-04-04 01:41:37: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_door_bottom_rh.json
+2018-04-04 01:41:37: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_fence_side.json
+2018-04-04 01:41:37: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_fence_post.json
+2018-04-04 01:41:37: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_ore_nether.json
+2018-04-04 01:41:38: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_ore.json
+2018-04-04 01:41:38: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_inner_stairs.json
+2018-04-04 01:41:38: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_fence_gate_closed.json
+2018-04-04 01:41:38: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_door_bottom_rh.json
+2018-04-04 01:41:38: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_fence_side.json
+2018-04-04 01:41:38: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_block.json
+2018-04-04 01:41:39: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_door_bottom.json
+2018-04-04 01:41:39: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_fence_post.json
+2018-04-04 01:41:39: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_fence_gate_open.json
+2018-04-04 01:41:39: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_door_top.json
+2018-04-04 01:41:39: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_fence_gate_closed.json
+2018-04-04 01:41:40: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_fence_gate_open.json
+2018-04-04 01:41:40: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_door_top_rh.json
+2018-04-04 01:41:42: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_door_top.json
+2018-04-04 01:41:42: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_button.json
+2018-04-04 01:41:42: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_button_inventory.json
+2018-04-04 01:41:43: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_door_bottom.json
+2018-04-04 01:41:43: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_button_pressed.json
+2018-04-04 01:41:43: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_button_pressed.json
+2018-04-04 01:41:43: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_button_inventory.json
+2018-04-04 01:41:43: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/machine_frame_basic.json
+2018-04-04 01:41:43: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_button.json
+2018-04-04 01:41:43: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_block.json
+2018-04-04 01:41:44: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/machine_frame_basic.json
+2018-04-04 01:41:44: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/ctm/canvas.cf
+2018-04-04 01:41:44: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/cotton_stage6.json
+2018-04-04 01:41:44: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/machine_frame_advanced.json
+2018-04-04 01:41:44: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/machine.json
+2018-04-04 01:41:44: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/machine_frame_advanced.json
+2018-04-04 01:41:44: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/ctm/machine_basic.cf
+2018-04-04 01:41:44: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/machine.json
+2018-04-04 01:41:44: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/ctm/machine_advanced.cf
+2018-04-04 01:41:45: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/gamemode_detector.json
+2018-04-04 01:41:45: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/gamemode_detector.json
+2018-04-04 01:41:45: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/ctm/machine_basic.cf
+2018-04-04 01:41:45: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/ctm/machine_advanced.cf
+2018-04-04 01:41:45: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_stairs.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_stairs.json' (178)
+2018-04-04 01:41:46: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_wall_gate_closed.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_wall_gate_closed.json' (110)
+2018-04-04 01:41:46: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore_nether.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_ore_nether.json' (87)
+2018-04-04 01:41:46: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_pressure_plate_down.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_pressure_plate_down.json' (113)
+2018-04-04 01:41:47: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/block_breaker_advanced.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/block_breaker_advanced.json' (49)
+2018-04-04 01:41:47: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore_end.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_ore_end.json' (84)
+2018-04-04 01:41:48: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_wall_gate_open.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_wall_gate_open.json' (108)
+2018-04-04 01:41:48: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/chip_advanced.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/chip_advanced.json' (88)
+2018-04-04 01:41:48: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_top_rh.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_door_top_rh.json' (153)
+2018-04-04 01:41:49: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/fabric.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/fabric.json' (81)
+2018-04-04 01:41:49: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/heart.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/heart.json' (96)
+2018-04-04 01:41:50: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_pressure_plate_up.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_pressure_plate_up.json' (111)
+2018-04-04 01:41:50: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/chip_basic.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/chip_basic.json' (85)
+2018-04-04 01:41:50: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/gamemode_detector.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/gamemode_detector.json' (44)
+2018-04-04 01:41:51: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/cotton.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/cotton.json' (81)
+2018-04-04 01:41:52: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_fence_gate_open.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_fence_gate_open.json' (109)
+2018-04-04 01:41:52: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/nice_biscuit.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/nice_biscuit.json' (87)
+2018-04-04 01:41:52: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_axe.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_axe.json' (81)
+2018-04-04 01:41:52: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_door_bottom.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_door_bottom.json' (153)
+2018-04-04 01:41:53: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_ore_overworld.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_ore_overworld.json' (80)
+2018-04-04 01:41:54: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/machine_frame_advanced.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/machine_frame_advanced.json' (89)
+2018-04-04 01:41:54: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_apple.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_apple.json' (84)
+2018-04-04 01:41:54: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_block.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_block.json' (82)
+2018-04-04 01:41:55: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/block_breaker_basic.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/block_breaker_basic.json' (46)
+2018-04-04 01:41:55: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_ingot.json
+2018-04-04 01:41:55: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_block.json
+2018-04-04 01:41:55: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_helmet.json
+2018-04-04 01:41:55: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/canvas.json
+2018-04-04 01:41:56: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_button.json
+2018-04-04 01:41:56: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_fence_gate.json
+2018-04-04 01:41:56: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/machine_frame_basic.json
+2018-04-04 01:41:56: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_apple.json
+2018-04-04 01:41:56: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/paint_brush.json
+2018-04-04 01:41:56: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_fence.json
+2018-04-04 01:41:56: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_door.json
+2018-04-04 01:41:56: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_chestplate.json
+2018-04-04 01:41:57: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_boots.json
+2018-04-04 01:41:57: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/block_breaker_basic.json
+2018-04-04 01:41:57: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_block.json
+2018-04-04 01:41:57: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_axe.json
+2018-04-04 01:41:57: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_ore_overworld.json
+2018-04-04 01:41:57: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/nice_biscuit.json
+2018-04-04 01:41:58: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_boots.json
+2018-04-04 01:41:58: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/soul_stealer.json
+2018-04-04 01:41:58: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_axe.json
+2018-04-04 01:41:58: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_apple.json
+2018-04-04 01:41:58: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/paint_brush.json
+2018-04-04 01:41:58: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/soul_stealer.json
+2018-04-04 01:41:58: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/nice_biscuit.json
+2018-04-04 01:41:58: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/gamemode_detector.json
+2018-04-04 01:41:59: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/machine_frame_basic.json
+2018-04-04 01:41:59: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/infinity_flame.json
+2018-04-04 01:41:59: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/machine_frame_advanced.json
+2018-04-04 01:41:59: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/machine_frame_advanced.json
+2018-04-04 01:41:59: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/infinity_flame.json
+2018-04-04 01:41:59: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/heart.json
+2018-04-04 01:41:59: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/heart.json
+2018-04-04 01:41:59: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/gamemode_detector.json
+2018-04-04 01:41:59: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/fabric.json
+2018-04-04 01:42:00: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/cotton.json
+2018-04-04 01:42:00: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/chip_basic.json
+2018-04-04 01:42:00: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/chip_advanced.json
+2018-04-04 01:42:00: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/cotton.json
+2018-04-04 01:42:00: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/fabric.json
+2018-04-04 01:42:00: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_wall_gate_open.json
+2018-04-04 01:42:00: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/block_breaker_advanced.json
+2018-04-04 01:42:01: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/chip_advanced.json
+2018-04-04 01:42:01: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/chip_basic.json
+2018-04-04 01:42:01: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/canvas.json
+2018-04-04 01:42:01: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_pressure_plate_down.json
+2018-04-04 01:42:01: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/block_breaker_basic.json
+2018-04-04 01:42:01: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_wall_gate_closed.json
+2018-04-04 01:42:01: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/block_breaker_advanced.json
+2018-04-04 01:42:01: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_wall_gate_open.json
+2018-04-04 01:42:01: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/block/tin_wall_gate_closed.json
+2018-04-04 01:42:02: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_stairs.json
+2018-04-04 01:42:02: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/paint_brush.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/paint_brush.json' (126)
+2018-04-04 01:42:03: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/soul_stealer.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/soul_stealer.json' (102)
+2018-04-04 01:42:03: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_helmet.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_helmet.json' (101)
+2018-04-04 01:42:04: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_boots.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_boots.json' (100)
+2018-04-04 01:42:04: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_hoe.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_hoe.json' (81)
+2018-04-04 01:42:05: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ingot.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_ingot.json' (84)
+2018-04-04 01:42:05: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_fence.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_fence.json' (109)
+2018-04-04 01:42:05: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_leggings.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_leggings.json' (103)
+2018-04-04 01:42:06: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_pickaxe.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_pickaxe.json' (85)
+2018-04-04 01:42:06: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_block.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_block.json' (36)
+2018-04-04 01:42:07: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/canvas.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/canvas.json' (733)
+2018-04-04 01:42:07: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/machine_frame_basic.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/machine_frame_basic.json' (86)
+2018-04-04 01:42:08: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_chestplate.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_chestplate.json' (105)
+2018-04-04 01:42:08: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore_nether.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_ore_nether.json' (41)
+2018-04-04 01:42:08: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_pressure_plate.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_pressure_plate.json' (52)
+2018-04-04 01:42:09: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_stairs.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_stairs.json' (233)
+2018-04-04 01:42:09: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_button.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_button.json' (51)
+2018-04-04 01:42:09: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/infinity_flame.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/infinity_flame.json' (89)
+2018-04-04 01:42:09: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_sword.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_sword.json' (83)
+2018-04-04 01:42:10: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_fence_gate/open.ogg' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/sounds/block/tin_fence_gate/open.ogg' (31162)
+2018-04-04 01:42:10: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_fence_gate/close.ogg' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/sounds/block/tin_fence_gate/close.ogg' (21275)
+2018-04-04 01:42:10: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_fence_gate.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_fence_gate.json' (52)
+2018-04-04 01:42:10: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_door.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_door.json' (99)
+2018-04-04 01:42:10: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_button/click_on.ogg' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/sounds/block/tin_button/click_on.ogg' (10140)
+2018-04-04 01:42:10: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_nugget.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_nugget.json' (85)
+2018-04-04 01:42:11: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore_overworld.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_ore_overworld.json' (44)
+2018-04-04 01:42:11: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds/block/tin_button/click_off.ogg' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/sounds/block/tin_button/click_off.ogg' (10054)
+2018-04-04 01:42:11: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/block/tin_slab_top.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/block/tin_slab_top.json' (181)
+2018-04-04 01:42:12: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_shovel.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_shovel.json' (84)
+2018-04-04 01:42:12: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/sounds.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/sounds.json' (720)
+2018-04-04 01:42:12: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_slab_half.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_slab_half.json' (237)
+2018-04-04 01:42:12: Change detected [1]: t=Modified path=/main/resources/assets/sxm/sounds.json
+2018-04-04 01:42:12: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_shovel.json
+2018-04-04 01:42:12: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_nugget.json
+2018-04-04 01:42:13: Change detected [1]: t=Modified path=/main/resources/assets/sxm/sounds/block/tin_button/click_on.ogg
+2018-04-04 01:42:13: Change detected [1]: t=Modified path=/main/resources/assets/sxm/sounds/block/tin_fence_gate/close.ogg
+2018-04-04 01:42:13: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/block/tin_slab_top.json
+2018-04-04 01:42:13: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_slab_half.json
+2018-04-04 01:42:13: Change detected [1]: t=Created path=/main/resources/assets/sxm/sounds.json
+2018-04-04 01:42:13: Change detected [1]: t=Modified path=/main/resources/assets/sxm/sounds/block/tin_fence_gate/open.ogg
+2018-04-04 01:42:13: Change detected [1]: t=Modified path=/main/resources/assets/sxm/sounds/block/tin_button/click_off.ogg
+2018-04-04 01:42:13: Change detected [1]: t=Created path=/main/resources/assets/sxm/sounds/block/tin_fence_gate/close.ogg
+2018-04-04 01:42:13: Change detected [1]: t=Created path=/main/resources/assets/sxm/sounds/block/tin_fence_gate/open.ogg
+2018-04-04 01:42:14: Change detected [1]: t=Created path=/main/resources/assets/sxm/sounds/block/tin_button/click_on.ogg
+2018-04-04 01:42:14: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_ore_nether.json
+2018-04-04 01:42:14: Change detected [1]: t=Created path=/main/resources/assets/sxm/sounds/block/tin_button/click_off.ogg
+2018-04-04 01:42:14: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_sword.json
+2018-04-04 01:42:14: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_fence_gate.json
+2018-04-04 01:42:14: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_ore_overworld.json
+2018-04-04 01:42:14: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_button.json
+2018-04-04 01:42:14: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_pressure_plate.json
+2018-04-04 01:42:14: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_stick.json
+2018-04-04 01:42:15: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_sword.json
+2018-04-04 01:42:15: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_stairs.json
+2018-04-04 01:42:15: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_slab_half.json
+2018-04-04 01:42:15: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_stairs.json
+2018-04-04 01:42:15: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_shovel.json
+2018-04-04 01:42:15: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_pickaxe.json
+2018-04-04 01:42:15: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_pressure_plate.json
+2018-04-04 01:42:15: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_ore_end.json
+2018-04-04 01:42:15: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_chestplate.json
+2018-04-04 01:42:15: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_ore_overworld.json
+2018-04-04 01:42:16: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_pickaxe.json
+2018-04-04 01:42:16: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_leggings.json
+2018-04-04 01:42:16: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_ore_nether.json
+2018-04-04 01:42:16: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_ore.json
+2018-04-04 01:42:16: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_hoe.json
+2018-04-04 01:42:16: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_ore_end.json
+2018-04-04 01:42:16: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_helmet.json
+2018-04-04 01:42:16: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_ingot.json
+2018-04-04 01:42:17: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_door.json
+2018-04-04 01:42:17: Change detected [1]: t=Modified path=/main/resources/assets/sxm/models/item/tin_fence.json
+2018-04-04 01:42:17: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_nugget.json
+2018-04-04 01:42:17: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_ore.json
+2018-04-04 01:42:17: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_leggings.json
+2018-04-04 01:42:17: Change detected [1]: t=Created path=/main/resources/assets/sxm/models/item/tin_hoe.json
+2018-04-04 01:42:18: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore_end.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_ore_end.json' (38)
+2018-04-04 01:42:18: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_ore.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_ore.json' (34)
+2018-04-04 01:42:18: Copy New 'S:/Documents/MinecraftModding/xcraftmod/src/main/resources/assets/sxm/models/item/tin_stick.json' -> 'gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/main/resources/assets/sxm/models/item/tin_stick.json' (84)
+2018-04-04 01:42:19: Save State File S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_file_state_v4._gs
+2018-04-04 01:42:20: Save State File gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_file_state_v4._gs
+2018-04-04 01:42:20: Cleanup recycled files in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_saved_
+2018-04-04 01:42:20: Load Recycled DB: S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/_recycled_db._gs
+2018-04-04 01:42:20: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-014057-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 01:42:20: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-014124-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 01:42:20: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/file-=Data Storage-Documents-MinecraftModding-xcraftmod-src/2018-0328-014148-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 01:42:20: Cleanup old logs in S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_
+2018-04-04 01:42:20: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-014057-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 01:42:20: Delete log file S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/2018-0328-014124-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 01:42:20: Cleanup recycled files in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_saved_
+2018-04-04 01:42:21: Load Recycled DB: gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/_recycled_db._gs
+2018-04-04 01:42:21: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-014057-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 01:42:21: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-014124-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 01:42:21: Deleted old log file C:/Users/Senpai/AppData/Roaming/GoodSync/_mirrors_/gdrive-Wicky_Gustave-0AGIAX4LCOy-XUk9PVA@www.googleapis.com-Good Sync-Eclips Projects-Moding Minecraft 1.12.2-Application/2018-0328-014148-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 01:42:21: Cleanup old logs in gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_
+2018-04-04 01:42:22: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-014057-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 01:42:23: Delete log file gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/2018-0328-014124-SENPAI_DESKTOP-Runner-Mod Sync.log
+2018-04-04 01:42:23: == Sync Complete. Time: 00:01:20, Speed: 10.4 KB/s, OK: 94, Errors: 0
+2018-04-04 01:42:23: Unlocking folder S:/Documents/MinecraftModding/xcraftmod/src/_gsdata_/lock.gsl
+2018-04-04 01:42:23: Unlocking folder gdrive://www.googleapis.com/Good Sync/Eclips Projects/Moding Minecraft 1.12.2/Application/_gsdata_/lock.gsl
+2018-04-04 01:42:24: 
