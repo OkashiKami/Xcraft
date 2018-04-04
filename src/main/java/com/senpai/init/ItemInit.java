@@ -52,10 +52,10 @@ public class ItemInit {
 	public static final Item SWORD_COPPER = new ToolSword("sword_copper", TOOLCOPPER);
 		//TIN
 	public static final Item TINPICKAXE = new ToolPickaxe("tin_pickaxe", TOOLTIN);
-	public static final Item TINAXE = new ToolAxe("tin_axe", TOOLTIN);
-	public static final Item TINHOE = new ToolHoe("tin_hoe", TOOLTIN);
-	public static final Item TINSHOVEL = new ToolShovel("tin_shovel", TOOLTIN);
-	public static final Item TINSWORD = new ToolSword("tin_sword", TOOLTIN);
+	public static final Item TINAXE = new ToolAxe("axe_tin", TOOLTIN);
+	public static final Item TINHOE = new ToolHoe("hoe_tin", TOOLTIN);
+	public static final Item TINSHOVEL = new ToolShovel("shovel_tin", TOOLTIN);
+	public static final Item TINSWORD = new ToolSword("sword_tin", TOOLTIN);
 	//Other
 	public static final Item WRENCH = new ToolWrench("wrench", TOOLWRENCH);
 	public static Item PAINTBRUSH = new ItemPaintBrush("paint_brush");
