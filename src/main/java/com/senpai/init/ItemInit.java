@@ -51,7 +51,7 @@ public class ItemInit {
 	public static final Item SHOVEL_COPPER = new ToolShovel("shovel_copper", TOOLCOPPER);
 	public static final Item SWORD_COPPER = new ToolSword("sword_copper", TOOLCOPPER);
 		//TIN
-	public static final Item TINPICKAXE = new ToolPickaxe("tin_pickaxe", TOOLTIN);
+	public static final Item TINPICKAXE = new ToolPickaxe("pickaxe_tin", TOOLTIN);
 	public static final Item TINAXE = new ToolAxe("axe_tin", TOOLTIN);
 	public static final Item TINHOE = new ToolHoe("hoe_tin", TOOLTIN);
 	public static final Item TINSHOVEL = new ToolShovel("shovel_tin", TOOLTIN);

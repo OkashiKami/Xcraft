@@ -2,7 +2,6 @@ package com.senpai.init;
 
 import com.senpai.blocks.BlockBase;
 import com.senpai.blocks.BlockBeacon;
-import com.senpai.blocks.BlockBreaker;
 import com.senpai.blocks.BlockCanvas;
 import com.senpai.blocks.BlockDirts;
 import com.senpai.blocks.BlockLeaf;
@@ -46,6 +45,5 @@ public class BlockInit
 	//Reactor
 	
 	//Engineering
-	public static final Block BREAKER = new BlockBreaker("breaker");
 	public static final Block CAANVAS = new BlockCanvas("canvas");
 }

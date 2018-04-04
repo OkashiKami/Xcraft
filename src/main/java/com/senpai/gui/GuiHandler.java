@@ -1,8 +1,6 @@
 package com.senpai.gui;
 
-import com.senpai.container.ContainerBlockBreaker;
 import com.senpai.container.ContainerEnergyCell;
-import com.senpai.tileEntity.TileEntityBlockBreaker;
 import com.senpai.tileEntity.TileEntityEnergyCell;
 import com.senpai.util.Reference;
 
@@ -26,7 +24,7 @@ public class GuiHandler implements IGuiHandler {
 		BlockPos pos = new BlockPos(x, y, z);
 		switch(ID) {
 		case Reference.GUI_BLOCK_BREAKER:
-			return new ContainerBlockBreaker(player.inventory, (TileEntityBlockBreaker) world.getTileEntity(pos));
+			return null;
 		case Reference.GUI_ENERGY_CELL:
 			return new ContainerEnergyCell(player.inventory, (TileEntityEnergyCell) world.getTileEntity(pos));
 		}
@@ -41,7 +39,7 @@ public class GuiHandler implements IGuiHandler {
 		BlockPos pos = new BlockPos(x, y, z);
 		switch(ID) {
 		case Reference.GUI_BLOCK_BREAKER:
-			return new GuiBlockBreaker(player.inventory, (TileEntityBlockBreaker) world.getTileEntity(pos));
+			return null;
 		case Reference.GUI_ENERGY_CELL:
 			return new GuiEnergyCell(player.inventory, (TileEntityEnergyCell)world.getTileEntity(pos));
 		}
